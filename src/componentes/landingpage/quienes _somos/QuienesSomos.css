@@ -1,0 +1,12 @@
+.image-placeholder {
+  background-color: #eaeaea;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background-image: url('https://via.placeholder.com/100x100?text=Image');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80px;
+}
