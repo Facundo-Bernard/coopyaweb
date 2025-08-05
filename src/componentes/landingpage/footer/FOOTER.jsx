@@ -1,15 +1,20 @@
+import { useState } from "react";
 
 const Footer = () => {
+  const [openSection, setOpenSection] = useState(null);
+
+  const toggleSection = (section) => {
+    setOpenSection(openSection === section ? null : section);
+  };
+
   return (
     <footer style={{ backgroundColor: '#4e1616', color: '#ddd', padding: '40px 0' }}>
       <div className="container">
-        <div className="row text-center text-md-start">
-          {/* Redes sociales */}
-          <div className="col-12 col-md-3 mb-4 mb-md-0 d-flex flex-column align-items-center justify-content-center">
-            <div className="mb-3">
-              <img src="/logo192.png" alt="Logo" style={{ width: '30px', marginBottom: '10px' }} />
-            </div>
-            <div className="d-flex gap-3">
+        <div className="row row-cols-1 row-cols-md-4 g-4 text-center text-md-start">
+          {/* Logo y redes */}
+          <div className="col d-flex flex-column align-items-center align-items-md-start">
+            <img src="/logo192.png" alt="Logo" style={{ width: '40px', marginBottom: '15px' }} />
+            <div className="d-flex gap-3 justify-content-center justify-content-md-start">
               <i className="bi bi-twitter-x fs-5"></i>
               <i className="bi bi-instagram fs-5"></i>
               <i className="bi bi-youtube fs-5"></i>
@@ -17,46 +22,88 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Use cases */}
-          <div className="col-12 col-md-3 mb-4 mb-md-0">
-            <h6 className="text-white">Use cases</h6>
-            <ul className="list-unstyled small">
-              <li>UI design</li>
-              <li>UX design</li>
-              <li>Wireframing</li>
-              <li>Diagramming</li>
-              <li>Brainstorming</li>
-              <li>Online whiteboard</li>
-              <li>Team collaboration</li>
-            </ul>
+          {/* Use cases dropdown */}
+          <div className="col">
+            <button
+              className="btn btn-sm btn-outline-light w-100 mb-2"
+              onClick={() => toggleSection("use")}
+            >
+              Use cases
+            </button>
+            {openSection === "use" && (
+              <ul className="list-unstyled small">
+                <li>UI design</li>
+                <li>UX design</li>
+                <li>Wireframing</li>
+                <li>Diagramming</li>
+                <li>Brainstorming</li>
+                <li>Online whiteboard</li>
+                <li>Team collaboration</li>
+              </ul>
+            )}
           </div>
 
-          {/* Explore */}
-          <div className="col-12 col-md-3 mb-4 mb-md-0">
-            <h6 className="text-white">Explore</h6>
-            <ul className="list-unstyled small">
-              <li>Design</li>
-              <li>Prototyping</li>
-              <li>Development features</li>
-              <li>Design systems</li>
-              <li>Collaboration features</li>
-              <li>Design process</li>
-              <li>FigJam</li>
-            </ul>
+          {/* Explore dropdown */}
+          <div className="col">
+            <button
+              className="btn btn-sm btn-outline-light w-100 mb-2"
+              onClick={() => toggleSection("explore")}
+            >
+              Explore
+            </button>
+            {openSection === "explore" && (
+              <ul className="list-unstyled small">
+                <li>Design</li>
+                <li>Prototyping</li>
+                <li>Development features</li>
+                <li>Design systems</li>
+                <li>Collaboration features</li>
+                <li>Design process</li>
+                <li>FigJam</li>
+              </ul>
+            )}
           </div>
 
-          {/* Resources */}
-          <div className="col-12 col-md-3 mb-4 mb-md-0">
-            <h6 className="text-white">Resources</h6>
-            <ul className="list-unstyled small">
-              <li>Blog</li>
-              <li>Best practices</li>
-              <li>Colors</li>
-              <li>Color wheel</li>
-              <li>Support</li>
-              <li>Developers</li>
-              <li>Resource library</li>
-            </ul>
+          {/* Resources dropdown */}
+          <div className="col">
+            <button
+              className="btn btn-sm btn-outline-light w-100 mb-2"
+              onClick={() => toggleSection("resources")}
+            >
+              Resources
+            </button>
+            {openSection === "resources" && (
+              <ul className="list-unstyled small">
+                <li>Blog</li>
+                <li>Best practices</li>
+                <li>Colors</li>
+                <li>Color wheel</li>
+                <li>Support</li>
+                <li>Developers</li>
+                <li>Resource library</li>
+              </ul>
+            )}
+          </div>
+        </div>
+
+        {/* Contacto directo */}
+        <div className="row mt-5 text-center text-md-start">
+          <div className="col-12">
+            <h5 className="text-white mb-3">Contacto</h5>
+            <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
+              <div>
+                <i className="bi bi-envelope me-2"></i>
+                contacto@cooperativaya.org
+              </div>
+              <div>
+                <i className="bi bi-telephone me-2"></i>
+                +54 11 5555-5555
+              </div>
+              <div>
+                <i className="bi bi-geo-alt me-2"></i>
+                Av. Cooperación 123, Buenos Aires
+              </div>
+            </div>
           </div>
         </div>
       </div>

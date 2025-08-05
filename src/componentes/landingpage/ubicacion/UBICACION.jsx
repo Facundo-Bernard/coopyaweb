@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Ubicacion = () => {
   return (
     <section className="py-5 bg-light text-center">
@@ -14,10 +12,11 @@ const Ubicacion = () => {
         >
           <iframe
             title="Ubicación - Cooperativa"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13135.517826142678!2d-58.3873694!3d-34.5996246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccb2b7c1f1f95%3A0x3fa92a3c6258b922!2sEl%20Hogar%20Obrero!5e0!3m2!1ses!2sar!4v1693535997166!5m2!1ses!2sar"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.963964223847!2d-58.37720652425961!3d-34.60825247295125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccacd2f3e6e4f%3A0x2b3b6b5c1f6e3b6e!2sBartolom%C3%A9%20Mitre%20797%2C%20C1036AAO%20CABA!5e0!3m2!1ses!2sar!4v1693535997166!5m2!1ses!2sar"
             style={{
               border: 0,
-              width: '1000px',
+              width: '100%',
+              maxWidth: '1000px',
               height: '350px',
               borderRadius: '8px',
               boxShadow: '0 4px 12px rgba(0, 0, 0, 0.1)',

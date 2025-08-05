@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import logo from './../../../assets/logo.png'
 const Navbar = () => {
   const navigate = useNavigate();
   const location = useLocation(); // Detecta la ruta actual
@@ -9,15 +9,28 @@ const Navbar = () => {
   const isActive = (path) => location.pathname === path;
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark" style={{ backgroundColor: '#ff3b3b' }}>
+    <nav className="navbar navbar-expand-lg navbar-dark" style={{
+    backgroundColor: '#ff3b3b',
+    paddingTop: '0',
+    paddingBottom: '0'
+  }}
+>
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
-          <img
-            src="https://via.placeholder.com/30"
-            alt="Logo"
-            className="d-inline-block align-text-top"
-          />
-        </Link>
+  <img
+    src={logo}
+    alt="Logo"
+    className="d-inline-block align-text-top"
+    style={{
+      objectFit: "cover",       // Ensures the image fills the container
+      objectPosition: "center", // Vertically centers the cropped area
+      height: "80px",           // Adjust height as needed
+      width: "150px",            // Keeps aspect ratio
+      overflow: "hidden",       // Ensures cropped content is hidden
+      borderRadius: "4px"       // Optional: adds subtle rounding
+    }}
+  />
+</Link>
 
         <button
           className="navbar-toggler"
@@ -51,8 +64,8 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <Link
-                className={`btn me-2 ${isActive("/") ? "btn-outline-light active" : "btn-light"}`}
-                to="/"
+                className={`btn me-2 ${isActive("/contactanos") ? "btn-outline-light active" : "btn-light"}`}
+                to="/contactanos"
               >
                 Contáctanos
               </Link>

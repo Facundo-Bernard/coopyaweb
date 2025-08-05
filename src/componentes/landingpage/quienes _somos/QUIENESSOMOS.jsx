@@ -12,8 +12,8 @@ const QuienesSomos = () => {
 
         {/* Texto a la derecha */}
         <div className="col-md-6">
-          <h2 className="fw-bold">Heading</h2>
-          <h5 className="text-muted">Subheading</h5>
+          <h2 className="fw-bold">Sobre nosotros</h2>
+          <h5 className="text-muted">cooperativa ya</h5>
           <p className="mt-3 text-secondary">
             Excepteur efficient emerging, minim veniam anim aute carefully curated Ginza conversation exquisite perfect nostrud nisi intricate Content. Qui international first-class nulla ut. Punctual adipiscing, essential lovely queen tempor eiusmod irure.
             Exclusive izakaya charming Scandinavian impeccable aute quality of life soft power pariatur Melbourne occaecat discerning. Qui wardrobe aliquip, et Porter destination Toto remarkable officia Helsinki exceptuer Basset hound. Zürich sleepy perfect consectetur.
