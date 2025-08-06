@@ -68,7 +68,12 @@ const ContactoForm = () => {
 
     return (
         <div style={{ backgroundColor: "#f8f9fa", minHeight: "100vh", paddingTop: "50px" }}>
+            
+            
             <div className="container">
+                
+
+                
                 <motion.div
                     variants={fadeIn}
                     initial="hidden"
@@ -82,7 +87,10 @@ const ContactoForm = () => {
                         margin: "0 auto",
                     }}
                 >
+
+                    
                     <h2 className="text-center text-danger mb-4 fw-bold">Enviar mensaje</h2>
+                    
                     <form onSubmit={handleSubmit}>
                         <div className="row g-3">
                             <div className="col-md-6">
@@ -170,6 +178,7 @@ const ContactoForm = () => {
                                         ? `Podés enviar ${enviosRestantes} mensaje${enviosRestantes === 1 ? "" : "s"} más.`
                                         : "Límite de envíos alcanzado."}
                                 </p>
+                                
                             </div>
                         </div>
                     </form>

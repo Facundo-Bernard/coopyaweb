@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import logo from './../../../assets/logo.png'
 const Footer = () => {
   const [openSection, setOpenSection] = useState(null);
 
@@ -8,12 +8,12 @@ const Footer = () => {
   };
 
   return (
-    <footer style={{ backgroundColor: '#4e1616', color: '#ddd', padding: '40px 0' }}>
+    <footer style={{ backgroundColor: '#4e1616', color: '#ddd' }}>
       <div className="container">
         <div className="row row-cols-1 row-cols-md-4 g-4 text-center text-md-start">
           {/* Logo y redes */}
           <div className="col d-flex flex-column align-items-center align-items-md-start">
-            <img src="/logo192.png" alt="Logo" style={{ width: '40px', marginBottom: '15px' }} />
+            <img src={logo} alt="Logo" style={{ width: '50%', marginBottom: '15px' }} />
             <div className="d-flex gap-3 justify-content-center justify-content-md-start">
               <i className="bi bi-twitter-x fs-5"></i>
               <i className="bi bi-instagram fs-5"></i>
@@ -93,15 +93,15 @@ const Footer = () => {
             <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
               <div>
                 <i className="bi bi-envelope me-2"></i>
-                contacto@cooperativaya.org
+                atencionalsocio@coopya.com.ar
               </div>
               <div>
                 <i className="bi bi-telephone me-2"></i>
-                +54 11 5555-5555
+                +54 11 4328-8680
               </div>
               <div>
                 <i className="bi bi-geo-alt me-2"></i>
-                Av. Cooperación 123, Buenos Aires
+                Bartolome mitre 797, Buenos Aires
               </div>
             </div>
           </div>
