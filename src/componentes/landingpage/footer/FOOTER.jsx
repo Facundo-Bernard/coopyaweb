@@ -41,17 +41,16 @@ const Footer = () => {
               className="btn btn-sm btn-outline-light w-100 mb-2"
               onClick={() => toggleSection("explore")}
             >
-              Explore
+              Links de interes
             </button>
             {openSection === "explore" && (
               <ul className="list-unstyled small">
-                <li>Design</li>
-                <li>Prototyping</li>
-                <li>Development features</li>
-                <li>Design systems</li>
-                <li>Collaboration features</li>
-                <li>Design process</li>
-                <li>FigJam</li>
+                <li>politica de privacidad</li>
+                <li>info us financiero</li>
+                <li>Medios de pago</li>
+                <li>Contrato de Adhesion servicios - Ley 24.240 de Defensa del consumidor</li>
+                <li>defensa del Consumidor Ciudad Autonoma de Buenos Aires</li>
+                <li>Legislacion Derecho del Consumidor</li>
               </ul>
             )}
           </div>

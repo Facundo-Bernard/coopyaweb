@@ -47,7 +47,7 @@ const HeroCarousel = () => {
               <div className="content-box text-center p-4 rounded shadow" style={{ zIndex: 1 }}>
                 <h1 className="fw-bold text-dark mb-2">Cooperativa Ya</h1>
                 <p className="text-dark mb-3">
-                  cooperativa de crédito, vivienda y consumo Ya LTDA
+                  Cooperativa de crédito, vivienda, consumo, servicios sociales y administrativos YA limitada. matricula inaes: 18213
                 </p>
                 <Link to="/servicios" className="btn btn-outline-danger">
                   Ver nuestros servicios
