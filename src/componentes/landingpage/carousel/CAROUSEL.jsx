@@ -1,35 +1,55 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './HeroCarousel.css'; // Estilos personalizados opcionales
 import { Link } from 'react-router-dom';
+import carousel2 from '../../../assets/LAVIDAEUNCAROUSEL2.png';
+import carousel1 from '../../../assets/LAVIDAEUNCAROUSEL.jpg';
+
+
 
 const HeroCarousel = () => {
   const images = [
-    'https://via.placeholder.com/1600x500?text=Imagen+1',
-    'https://via.placeholder.com/1600x500?text=Imagen+2',
-    'https://via.placeholder.com/1600x500?text=Imagen+3',
-    'https://via.placeholder.com/1600x500?text=Imagen+4'
+    carousel1,
+    carousel2,
+
   ];
 
   return (
     <div id="heroCarousel" className="carousel slide carousel-fade" data-bs-ride="carousel">
       <div className="carousel-inner">
         {images.map((src, idx) => (
-          <div
-            className={`carousel-item ${idx === 0 ? 'active' : ''}`}
-            key={idx}
-          >
+          <div className={`carousel-item ${idx === 0 ? 'active' : ''}`} key={idx}>
             <div
-              className="hero-slide d-flex align-items-center justify-content-center text-center"
-              style={{ backgroundImage: `url(${src})` }}
+              className="hero-slide position-relative d-flex align-items-center justify-content-center"
+              style={{
+                height: '500px',
+                overflow: 'hidden',
+                backgroundColor: '#f8f9fa'
+              }}
             >
-              <div className="overlay"></div>
-              <div className="content">
-                <h1 className="fw-bold text-dark">Cooperativa Ya</h1>
-                <p className="text-dark">
-                  cooperativa de credito, vivienda y consumo Ya LTDA
+              {/* Capa difuminada */}
+              <div
+                className="blur-layer"
+                style={{
+                  backgroundImage: `url(${src})`,
+                  backgroundSize: 'cover',
+                  backgroundPosition: 'center',
+                  position: 'absolute',
+                  inset: 0,
+                  filter: 'blur(10px) brightness(1.1)',
+                  opacity: 0.5,
+                  transform: 'scale(1.02)',
+                  zIndex: 0,
+                  animation: 'gentleFade 2s ease-out forwards'
+                }}
+              />
+
+              {/* Recuadro blanco con contenido */}
+              <div className="content-box text-center p-4 rounded shadow" style={{ zIndex: 1 }}>
+                <h1 className="fw-bold text-dark mb-2">Cooperativa Ya</h1>
+                <p className="text-dark mb-3">
+                  cooperativa de crédito, vivienda y consumo Ya LTDA
                 </p>
-                <Link to="/servicios" className="btn btn-outline-danger mt-2">
+                <Link to="/servicios" className="btn btn-outline-danger">
                   Ver nuestros servicios
                 </Link>
               </div>
@@ -39,12 +59,53 @@ const HeroCarousel = () => {
       </div>
 
       {/* Controles */}
-      <button className="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+      <button
+        className="carousel-control-prev"
+        type="button"
+        data-bs-target="#heroCarousel"
+        data-bs-slide="prev"
+      >
         <span className="carousel-control-prev-icon" aria-hidden="true" />
       </button>
-      <button className="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+      <button
+        className="carousel-control-next"
+        type="button"
+        data-bs-target="#heroCarousel"
+        data-bs-slide="next"
+      >
         <span className="carousel-control-next-icon" aria-hidden="true" />
       </button>
+
+      {/* Estilos internos */}
+      <style>{`
+        @keyframes gentleFade {
+          from {
+            opacity: 0.3;
+            transform: scale(1.03);
+          }
+          to {
+            opacity: 0.5;
+            transform: scale(1.02);
+          }
+        }
+
+        .content-box {
+          background: rgba(255, 255, 255, 0.85);
+          max-width: 600px;
+          animation: fadeInText 1.5s ease-out forwards;
+        }
+
+        @keyframes fadeInText {
+          from {
+            opacity: 0;
+            transform: translateY(10px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+      `}</style>
     </div>
   );
 };

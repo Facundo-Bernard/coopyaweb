@@ -93,7 +93,7 @@ const Footer = () => {
             <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
               <div>
                 <i className="bi bi-envelope me-2"></i>
-                atencionalsocio@coopya.com.ar
+                coopya@coopya.com.ar
               </div>
               <div>
                 <i className="bi bi-telephone me-2"></i>
