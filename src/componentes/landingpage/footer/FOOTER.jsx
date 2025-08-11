@@ -1,5 +1,6 @@
 import { useState } from "react";
 import logo from './../../../assets/logo.png'
+import { Link } from "react-router-dom";
 const Footer = () => {
   const [openSection, setOpenSection] = useState(null);
 
@@ -24,23 +25,14 @@ const Footer = () => {
 
           {/* Use cases dropdown */}
           <div className="col">
-            <button
-              className="btn btn-sm btn-outline-light w-100 mb-2"
-              onClick={() => toggleSection("use")}
-            >
-              Use cases
-            </button>
-            {openSection === "use" && (
+           
+              <Link onClick={() => toggleSection("use")} className="btn btn-sm btn-outline-light w-100 mb-2" to="/bajas">
+              Boton de arrepentimiento
+              </Link>
               <ul className="list-unstyled small">
-                <li>UI design</li>
-                <li>UX design</li>
-                <li>Wireframing</li>
-                <li>Diagramming</li>
-                <li>Brainstorming</li>
-                <li>Online whiteboard</li>
-                <li>Team collaboration</li>
+                                En virtud a lo dispuesto en el Art 34 de la ley 24.240, el aceptante de la asistencia crediticia tiene el derecho de arrepentirse de la misma, y revocar su aceptación dentro del plazo de los diez (10) días corridos, contados a partir de la fecha en que se desembolse la asistencia crediticia o que se celebre el contrato, lo último que ocurra, sin responsabilidad alguna para su persona.
               </ul>
-            )}
+          
           </div>
 
           {/* Explore dropdown */}
@@ -74,13 +66,7 @@ const Footer = () => {
             </button>
             {openSection === "resources" && (
               <ul className="list-unstyled small">
-                <li>Blog</li>
-                <li>Best practices</li>
-                <li>Colors</li>
-                <li>Color wheel</li>
-                <li>Support</li>
-                <li>Developers</li>
-                <li>Resource library</li>
+                En virtud a lo dispuesto en el Art 34 de la ley 24.240, el aceptante de la asistencia crediticia tiene el derecho de arrepentirse de la misma, y revocar su aceptación dentro del plazo de los diez (10) días corridos, contados a partir de la fecha en que se desembolse la asistencia crediticia o que se celebre el contrato, lo último que ocurra, sin responsabilidad alguna para su persona.
               </ul>
             )}
           </div>

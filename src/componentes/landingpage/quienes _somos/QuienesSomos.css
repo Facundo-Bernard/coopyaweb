@@ -1,12 +1,133 @@
-.image-placeholder {
-  background-color: #eaeaea;
-  height: 250px;
+/* Container y ajustes básicos */
+#quienes-somos .image-cluster {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
-  background-image: url('https://via.placeholder.com/100x100?text=Image');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 80px;
+  width: 100%;
+  /* altura flexible para que el layout no colapse */
+  min-height: 160px;
+  position: relative;
+  padding: 8px;
 }
+
+/* Botones que contienen cada imagen (mejor para accesibilidad/keyboard) */
+.image-cluster .cluster-item {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  position: absolute; /* se superponen por defecto */
+  cursor: pointer;
+  transition: transform 220ms ease, box-shadow 220ms ease;
+  outline: none;
+}
+
+/* Estilo de la imagen interna */
+.image-cluster .cluster-item img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  border: 4px solid rgba(255,255,255,0.9);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+  will-change: transform;
+}
+
+/* Posicionamiento por defecto (cluster apilado) */
+.image-cluster .item-0 { transform: translateX(-36px) translateY(6px) rotate(-3deg); z-index: 20; }
+.image-cluster .item-1 { transform: translateX(0px) translateY(-2px) rotate(0deg); z-index: 30; }
+.image-cluster .item-2 { transform: translateX(36px) translateY(6px) rotate(3deg); z-index: 20; }
+
+/* Hover: expandir (spread) y elevar la imagen bajo el cursor */
+.image-cluster:hover .item-0 { transform: translateX(-78px) translateY(0) rotate(-2deg); }
+.image-cluster:hover .item-1 { transform: translateX(0) translateY(-6px) rotate(0deg) scale(1.03); }
+.image-cluster:hover .item-2 { transform: translateX(78px) translateY(0) rotate(2deg); }
+
+.image-cluster .cluster-item:focus img,
+.image-cluster .cluster-item:hover img {
+  transform: scale(1.03);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.18);
+}
+
+/* Ajustes responsive: en pantallas pequeñas quitar overlap y usar fila */
+@media (max-width: 767px) {
+  .image-cluster {
+    min-height: 120px;
+  }
+  .image-cluster .cluster-item {
+    position: relative;
+    margin: 0 8px;
+    display: inline-block;
+    transform: none !important;
+  }
+  .image-cluster .cluster-item img {
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+  }
+  .image-cluster {
+    display: flex;
+    justify-content: flex-start;
+    gap: 12px;
+    padding-left: 0;
+    overflow-x: auto;
+  }
+}
+
+/* Lightbox / modal */
+.cluster-lightbox {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.65);
+  z-index: 2000;
+  padding: 20px;
+}
+.cluster-lightbox-inner {
+  position: relative;
+  max-width: 92vw;
+  max-height: 92vh;
+  background: #fff;
+  border-radius: 10px;
+  padding: 12px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cluster-lightbox-inner img {
+  max-width: 80vw;
+  max-height: 72vh;
+  object-fit: contain;
+  border-radius: 6px;
+}
+.cluster-lightbox-close {
+  position: absolute;
+  right: 8px;
+  top: 6px;
+  border: 0;
+  background: transparent;
+  font-size: 30px;
+  line-height: 1;
+  color: #333;
+  cursor: pointer;
+}
+.cluster-lightbox-caption {
+  margin-top: 8px;
+  color: #444;
+  font-size: 14px;
+}
+
+/* Mejora visual: preferencia para reducción de movimiento (accesibility) */
+@media (prefers-reduced-motion: reduce) {
+  .image-cluster .cluster-item,
+  .image-cluster .cluster-item img,
+  .image-cluster:hover .cluster-item {
+    transition: none;
+  }
+}
+
