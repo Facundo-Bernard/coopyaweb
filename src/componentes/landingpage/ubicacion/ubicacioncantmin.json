@@ -1,0 +1,2810 @@
+[
+    {
+        "Localidad": "SANTIAGO DEL ESTERO",
+        "Cantidad": 2,
+        "Latitud": -27.7951,
+        "Longitud": -64.2615
+    },
+    {
+        "Localidad": "17 DE AGOSTO BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -34.5965,
+        "Longitud": -59.0987
+    },
+    {
+        "Localidad": "25 DE MAYO BUENOS AIRES",
+        "Cantidad": 70,
+        "Latitud": -35.4324,
+        "Longitud": -60.1741
+    },
+    {
+        "Localidad": "9 DE ABRIL BUENOS AIRES",
+        "Cantidad": 13,
+        "Latitud": -34.7477,
+        "Longitud": -58.4919
+    },
+    {
+        "Localidad": "9 DE JULIO BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -35.4447,
+        "Longitud": -60.8843
+    },
+    {
+        "Localidad": "9 DE JULIO SAN JUAN",
+        "Cantidad": 8,
+        "Latitud": -31.5875,
+        "Longitud": -68.4086
+    },
+    {
+        "Localidad": "9 DE JULIO CORRIENTES",
+        "Cantidad": 4,
+        "Latitud": -28.3231,
+        "Longitud": -57.9724
+    },
+    {
+        "Localidad": "ABASTO BUENOS AIRES",
+        "Cantidad": 52,
+        "Latitud": -34.9004,
+        "Longitud": -58.0734
+    },
+    {
+        "Localidad": "AGUILARES TUCUMAN",
+        "Cantidad": 29,
+        "Latitud": -27.4332,
+        "Longitud": -65.6169
+    },
+    {
+        "Localidad": "AIMOGASTA LA RIOJA",
+        "Cantidad": 1,
+        "Latitud": -28.5634,
+        "Longitud": -66.7967
+    },
+    {
+        "Localidad": "ALBARDON SAN JUAN",
+        "Cantidad": 16,
+        "Latitud": -31.4789,
+        "Longitud": -68.5253
+    },
+    {
+        "Localidad": "ALBERDI BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -34.3353,
+        "Longitud": -61.8841
+    },
+    {
+        "Localidad": "ALBERTI BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -35.0136,
+        "Longitud": -60.2644
+    },
+    {
+        "Localidad": "ALCORTA SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -33.5074,
+        "Longitud": -61.1613
+    },
+    {
+        "Localidad": "ALDERETES TUCUMAN",
+        "Cantidad": 39,
+        "Latitud": -26.8164,
+        "Longitud": -65.1736
+    },
+    {
+        "Localidad": "ALDO BONZI BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.6908,
+        "Longitud": -58.5252
+    },
+    {
+        "Localidad": "ALEJANDRO KORN BUENOS AIRES",
+        "Cantidad": 87,
+        "Latitud": -35.0239,
+        "Longitud": -58.3798
+    },
+    {
+        "Localidad": "ALLEN RIO NEGRO",
+        "Cantidad": 7,
+        "Latitud": -38.9856,
+        "Longitud": -67.8271
+    },
+    {
+        "Localidad": "ALMAGRO CAPITAL FEDERAL",
+        "Cantidad": 4,
+        "Latitud": -34.6091,
+        "Longitud": -58.4187
+    },
+    {
+        "Localidad": "ALTA CORDOBA CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.3993,
+        "Longitud": -64.1882
+    },
+    {
+        "Localidad": "ALTA GRACIA CORDOBA",
+        "Cantidad": 6,
+        "Latitud": -31.6555,
+        "Longitud": -64.4333
+    },
+    {
+        "Localidad": "ALTE BROWN BUENOS AIRES",
+        "Cantidad": 57,
+        "Latitud": -34.7929,
+        "Longitud": -58.3804
+    },
+    {
+        "Localidad": "ALTO ALEGRE CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -33.2063,
+        "Longitud": -63.1834
+    },
+    {
+        "Localidad": "ALTO VERDE TUCUMAN",
+        "Cantidad": 3,
+        "Latitud": -27.0989,
+        "Longitud": -65.4241
+    },
+    {
+        "Localidad": "AMEGHINO BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.2953,
+        "Longitud": -61.5932
+    },
+    {
+        "Localidad": "ANGACO NORTE SAN JUAN",
+        "Cantidad": 5,
+        "Latitud": -31.4657,
+        "Longitud": -68.3774
+    },
+    {
+        "Localidad": "APOSTOLES MISIONES",
+        "Cantidad": 23,
+        "Latitud": -27.9088,
+        "Longitud": -55.7513
+    },
+    {
+        "Localidad": "ARGUELLO CORDOBA",
+        "Cantidad": 4,
+        "Latitud": -31.3531,
+        "Longitud": -64.2615
+    },
+    {
+        "Localidad": "ARROYITO CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -31.4258,
+        "Longitud": -62.9567
+    },
+    {
+        "Localidad": "ARTURO SEGUI BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -34.9009,
+        "Longitud": -58.0843
+    },
+    {
+        "Localidad": "AVELLANEDA BUENOS AIRES",
+        "Cantidad": 66,
+        "Latitud": -34.6636,
+        "Longitud": -58.3685
+    },
+    {
+        "Localidad": "AVELLANEDA SANTA FE",
+        "Cantidad": 2,
+        "Latitud": -29.1176,
+        "Longitud": -59.6518
+    },
+    {
+        "Localidad": "AYACUCHO BUENOS AIRES",
+        "Cantidad": 32,
+        "Latitud": -37.1413,
+        "Longitud": -58.4863
+    },
+    {
+        "Localidad": "AZUL BUENOS AIRES",
+        "Cantidad": 55,
+        "Latitud": -36.7859,
+        "Longitud": -59.8706
+    },
+    {
+        "Localidad": "B VA BELGRANO CORDOBA",
+        "Cantidad": 11,
+        "Latitud": -31.3489,
+        "Longitud": -64.1967
+    },
+    {
+        "Localidad": "BAHIA BLANCA BUENOS AIRES",
+        "Cantidad": 311,
+        "Latitud": -38.7183,
+        "Longitud": -62.2655
+    },
+    {
+        "Localidad": "BAJO HONDO BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -38.5873,
+        "Longitud": -62.5012
+    },
+    {
+        "Localidad": "BALCARCE BUENOS AIRES",
+        "Cantidad": 64,
+        "Latitud": -37.8467,
+        "Longitud": -58.2561
+    },
+    {
+        "Localidad": "BANDA DEL RIO SALI TUCUMAN",
+        "Cantidad": 56,
+        "Latitud": -26.8347,
+        "Longitud": -65.1925
+    },
+    {
+        "Localidad": "BANFIELD BUENOS AIRES",
+        "Cantidad": 94,
+        "Latitud": -34.7471,
+        "Longitud": -58.3926
+    },
+    {
+        "Localidad": "BARADERO BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -33.8065,
+        "Longitud": -59.5134
+    },
+    {
+        "Localidad": "BARILOCHE RIO NEGRO",
+        "Cantidad": 10,
+        "Latitud": -41.1355,
+        "Longitud": -71.3103
+    },
+    {
+        "Localidad": "BARRANQUERAS CHACO",
+        "Cantidad": 22,
+        "Latitud": -27.4849,
+        "Longitud": -58.9306
+    },
+    {
+        "Localidad": "BARREAL SAN JUAN",
+        "Cantidad": 3,
+        "Latitud": -31.6514,
+        "Longitud": -69.4388
+    },
+    {
+        "Localidad": "BARRIO ALTO VERDE CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.3402,
+        "Longitud": -64.2673
+    },
+    {
+        "Localidad": "BARRIO JOSE HERNANDEZ CORDOBA",
+        "Cantidad": 13,
+        "Latitud": -31.4727,
+        "Longitud": -64.2762
+    },
+    {
+        "Localidad": "BARRIO PARQUE SAN VICENTE CORDOBA",
+        "Cantidad": 10,
+        "Latitud": -31.4373,
+        "Longitud": -64.1448
+    },
+    {
+        "Localidad": "BARRIO SAN FERNANDO CATAMARCA",
+        "Cantidad": 99,
+        "Latitud": -28.4554,
+        "Longitud": -65.7796
+    },
+    {
+        "Localidad": "BARRIO SAN MARTIN SAN JUAN",
+        "Cantidad": 13,
+        "Latitud": -31.5584,
+        "Longitud": -68.5342
+    },
+    {
+        "Localidad": "BARRIO SARGENTO CABRAL CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.4668,
+        "Longitud": -64.1841
+    },
+    {
+        "Localidad": "BECCAR BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.4763,
+        "Longitud": -58.5424
+    },
+    {
+        "Localidad": "BELLA VISTA BUENOS AIRES",
+        "Cantidad": 35,
+        "Latitud": -34.6017,
+        "Longitud": -58.6429
+    },
+    {
+        "Localidad": "BELLA VISTA CORRIENTES",
+        "Cantidad": 9,
+        "Latitud": -28.5073,
+        "Longitud": -58.8258
+    },
+    {
+        "Localidad": "BELL-VILLE CORDOBA",
+        "Cantidad": 7,
+        "Latitud": -32.6223,
+        "Longitud": -62.6972
+    },
+    {
+        "Localidad": "BENAVIDEZ BUENOS AIRES",
+        "Cantidad": 11,
+        "Latitud": -34.4257,
+        "Longitud": -58.6472
+    },
+    {
+        "Localidad": "BENITO JUAREZ BUENOS AIRES",
+        "Cantidad": 36,
+        "Latitud": -37.7051,
+        "Longitud": -59.7872
+    },
+    {
+        "Localidad": "BERAZATEGUI BUENOS AIRES",
+        "Cantidad": 409,
+        "Latitud": -34.7632,
+        "Longitud": -58.2128
+    },
+    {
+        "Localidad": "BERISSO BUENOS AIRES",
+        "Cantidad": 123,
+        "Latitud": -34.8679,
+        "Longitud": -57.8752
+    },
+    {
+        "Localidad": "BERMEJO MENDOZA",
+        "Cantidad": 140,
+        "Latitud": -32.9098,
+        "Longitud": -68.7932
+    },
+    {
+        "Localidad": "BERNAL BUENOS AIRES",
+        "Cantidad": 51,
+        "Latitud": -34.7167,
+        "Longitud": -58.2693
+    },
+    {
+        "Localidad": "BERROTARAN CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -32.6801,
+        "Longitud": -64.3978
+    },
+    {
+        "Localidad": "BOLIVAR BUENOS AIRES",
+        "Cantidad": 64,
+        "Latitud": -36.2427,
+        "Longitud": -61.0999
+    },
+    {
+        "Localidad": "BOSQUES BUENOS AIRES",
+        "Cantidad": 33,
+        "Latitud": -34.8099,
+        "Longitud": -58.3291
+    },
+    {
+        "Localidad": "BOULOGNE BUENOS AIRES",
+        "Cantidad": 15,
+        "Latitud": -34.5145,
+        "Longitud": -58.5542
+    },
+    {
+        "Localidad": "BRAGADO BUENOS AIRES",
+        "Cantidad": 86,
+        "Latitud": -35.1083,
+        "Longitud": -60.4902
+    },
+    {
+        "Localidad": "BUENA NUEVA MENDOZA",
+        "Cantidad": 101,
+        "Latitud": -32.8224,
+        "Longitud": -68.7593
+    },
+    {
+        "Localidad": "BURZACO BUENOS AIRES",
+        "Cantidad": 166,
+        "Latitud": -34.8371,
+        "Longitud": -58.3834
+    },
+    {
+        "Localidad": "CABILDO BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -38.5094,
+        "Longitud": -61.9968
+    },
+    {
+        "Localidad": "CACHARI BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -37.4717,
+        "Longitud": -59.8463
+    },
+    {
+        "Localidad": "CALETA OLIVA SANTA CRUZ",
+        "Cantidad": 7,
+        "Latitud": -46.4337,
+        "Longitud": -67.525
+    },
+    {
+        "Localidad": "CALINGASTA SAN JUAN",
+        "Cantidad": 3,
+        "Latitud": -31.3233,
+        "Longitud": -69.5889
+    },
+    {
+        "Localidad": "CAMPANA BUENOS AIRES",
+        "Cantidad": 119,
+        "Latitud": -34.1672,
+        "Longitud": -58.9581
+    },
+    {
+        "Localidad": "CAMPO LARGO CHACO",
+        "Cantidad": 1,
+        "Latitud": -26.7974,
+        "Longitud": -59.4975
+    },
+    {
+        "Localidad": "CAMPO MAYO BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.7351,
+        "Longitud": -59.6832
+    },
+    {
+        "Localidad": "CAMPO QUIJANO SALTA",
+        "Cantidad": 4,
+        "Latitud": -24.8578,
+        "Longitud": -65.6028
+    },
+    {
+        "Localidad": "BENAVIDEZ BUENOS AIRES",
+        "Cantidad": 11,
+        "Latitud": -34.4257,
+        "Longitud": -58.6472
+    },
+    {
+        "Localidad": "BENITO JUAREZ BUENOS AIRES",
+        "Cantidad": 36,
+        "Latitud": -37.7051,
+        "Longitud": -59.7872
+    },
+    {
+        "Localidad": "BERAZATEGUI BUENOS AIRES",
+        "Cantidad": 409,
+        "Latitud": -34.7632,
+        "Longitud": -58.2128
+    },
+    {
+        "Localidad": "BERISSO BUENOS AIRES",
+        "Cantidad": 123,
+        "Latitud": -34.8679,
+        "Longitud": -57.8752
+    },
+    {
+        "Localidad": "BERMEJO MENDOZA",
+        "Cantidad": 140,
+        "Latitud": -32.9098,
+        "Longitud": -68.7932
+    },
+    {
+        "Localidad": "BERNAL BUENOS AIRES",
+        "Cantidad": 51,
+        "Latitud": -34.7167,
+        "Longitud": -58.2693
+    },
+    {
+        "Localidad": "BERROTARAN CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -32.6801,
+        "Longitud": -64.3978
+    },
+    {
+        "Localidad": "BOLIVAR BUENOS AIRES",
+        "Cantidad": 64,
+        "Latitud": -36.2427,
+        "Longitud": -61.0999
+    },
+    {
+        "Localidad": "BOSQUES BUENOS AIRES",
+        "Cantidad": 33,
+        "Latitud": -34.8099,
+        "Longitud": -58.3291
+    },
+    {
+        "Localidad": "BOULOGNE BUENOS AIRES",
+        "Cantidad": 15,
+        "Latitud": -34.5145,
+        "Longitud": -58.5542
+    },
+    {
+        "Localidad": "BRAGADO BUENOS AIRES",
+        "Cantidad": 86,
+        "Latitud": -35.1083,
+        "Longitud": -60.4902
+    },
+    {
+        "Localidad": "BUENA NUEVA MENDOZA",
+        "Cantidad": 101,
+        "Latitud": -32.8224,
+        "Longitud": -68.7593
+    },
+    {
+        "Localidad": "BURZACO BUENOS AIRES",
+        "Cantidad": 166,
+        "Latitud": -34.8371,
+        "Longitud": -58.3834
+    },
+    {
+        "Localidad": "CABILDO BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -38.5094,
+        "Longitud": -61.9968
+    },
+    {
+        "Localidad": "CACHARI BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -37.4717,
+        "Longitud": -59.8463
+    },
+    {
+        "Localidad": "CALETA OLIVA SANTA CRUZ",
+        "Cantidad": 7,
+        "Latitud": -46.4337,
+        "Longitud": -67.525
+    },
+    {
+        "Localidad": "CALINGASTA SAN JUAN",
+        "Cantidad": 3,
+        "Latitud": -31.3233,
+        "Longitud": -69.5889
+    },
+    {
+        "Localidad": "CAMPANA BUENOS AIRES",
+        "Cantidad": 119,
+        "Latitud": -34.1672,
+        "Longitud": -58.9581
+    },
+    {
+        "Localidad": "CAMPO LARGO CHACO",
+        "Cantidad": 1,
+        "Latitud": -26.7974,
+        "Longitud": -59.4975
+    },
+    {
+        "Localidad": "CAMPO MAYO BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.7351,
+        "Longitud": -59.6832
+    },
+    {
+        "Localidad": "CAMPO QUIJANO SALTA",
+        "Cantidad": 4,
+        "Latitud": -24.8578,
+        "Longitud": -65.6028
+    },
+    {
+        "Localidad": "CANDELARIA MISIONES",
+        "Cantidad": 5,
+        "Latitud": -27.6345,
+        "Longitud": -55.7466
+    },
+    {
+        "Localidad": "CAPILLA DEL MONTE CORDOBA",
+        "Cantidad": 7,
+        "Latitud": -30.8556,
+        "Longitud": -64.5286
+    },
+    {
+        "Localidad": "CAPITAL FEDERAL CAPITAL FEDERAL",
+        "Cantidad": 2150,
+        "Latitud": -34.6037,
+        "Longitud": -58.3816
+    },
+    {
+        "Localidad": "CAPITAN BERMUDEZ SANTA FE",
+        "Cantidad": 3,
+        "Latitud": -32.8028,
+        "Longitud": -60.7181
+    },
+    {
+        "Localidad": "CAPITAN LAZO SAN JUAN",
+        "Cantidad": 23,
+        "Latitud": -31.4496,
+        "Longitud": -68.4949
+    },
+    {
+        "Localidad": "CAPITAN SARMIENTO BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -33.4903,
+        "Longitud": -60.4711
+    },
+    {
+        "Localidad": "CARHUE BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -37.1865,
+        "Longitud": -62.7422
+    },
+    {
+        "Localidad": "CARLOS CASARES BUENOS AIRES",
+        "Cantidad": 24,
+        "Latitud": -35.6167,
+        "Longitud": -61.3667
+    },
+    {
+        "Localidad": "CARLOS TEJEDOR BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -35.4331,
+        "Longitud": -62.4327
+    },
+    {
+        "Localidad": "CARRODILLA MENDOZA",
+        "Cantidad": 19,
+        "Latitud": -32.9568,
+        "Longitud": -68.8504
+    },
+    {
+        "Localidad": "CASBAS BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -36.6334,
+        "Longitud": -62.5946
+    },
+    {
+        "Localidad": "CASEROS BUENOS AIRES",
+        "Cantidad": 155,
+        "Latitud": -34.6094,
+        "Longitud": -58.5637
+    },
+    {
+        "Localidad": "CASILDA SANTA FE",
+        "Cantidad": 3,
+        "Latitud": -33.0483,
+        "Longitud": -61.1716
+    },
+    {
+        "Localidad": "CASTELAR BUENOS AIRES",
+        "Cantidad": 23,
+        "Latitud": -34.6479,
+        "Longitud": -58.6273
+    },
+    {
+        "Localidad": "CASTELLI BUENOS AIRES",
+        "Cantidad": 10,
+        "Latitud": -36.1034,
+        "Longitud": -57.8133
+    },
+    {
+        "Localidad": "CATRIEL RIO NEGRO",
+        "Cantidad": 3,
+        "Latitud": -38.8926,
+        "Longitud": -68.1328
+    },
+    {
+        "Localidad": "CAUCETE SAN JUAN",
+        "Cantidad": 75,
+        "Latitud": -31.6465,
+        "Longitud": -68.283
+    },
+    {
+        "Localidad": "CENTENARIO NEUQUEN",
+        "Cantidad": 1,
+        "Latitud": -38.8267,
+        "Longitud": -68.1393
+    },
+    {
+        "Localidad": "CERRILLOS SALTA",
+        "Cantidad": 4,
+        "Latitud": -24.9058,
+        "Longitud": -65.4816
+    },
+    {
+        "Localidad": "CERVANTES RIO NEGRO",
+        "Cantidad": 7,
+        "Latitud": -39.0251,
+        "Longitud": -67.9763
+    },
+    {
+        "Localidad": "CHAMICAL LA RIOJA",
+        "Cantidad": 4,
+        "Latitud": -30.3604,
+        "Longitud": -66.3133
+    },
+    {
+        "Localidad": "CHARATA CHACO",
+        "Cantidad": 8,
+        "Latitud": -27.2183,
+        "Longitud": -61.1871
+    },
+    {
+        "Localidad": "CHASCOMUS BUENOS AIRES",
+        "Cantidad": 189,
+        "Latitud": -35.5746,
+        "Longitud": -58.0119
+    },
+    {
+        "Localidad": "CHILECITO LA RIOJA",
+        "Cantidad": 8,
+        "Latitud": -29.1716,
+        "Longitud": -67.4972
+    },
+    {
+        "Localidad": "CHIMBAS SAN JUAN",
+        "Cantidad": 132,
+        "Latitud": -31.5088,
+        "Longitud": -68.5242
+    },
+    {
+        "Localidad": "CHOELE CHOEL RIO NEGRO",
+        "Cantidad": 1,
+        "Latitud": -39.2906,
+        "Longitud": -65.6591
+    },
+    {
+        "Localidad": "CINCO SALTOS RIO NEGRO",
+        "Cantidad": 19,
+        "Latitud": -38.8259,
+        "Longitud": -67.4728
+    },
+    {
+        "Localidad": "CIPOLLETTI RIO NEGRO",
+        "Cantidad": 8,
+        "Latitud": -38.9415,
+        "Longitud": -67.9971
+    },
+    {
+        "Localidad": "CITY BELL BUENOS AIRES",
+        "Cantidad": 18,
+        "Latitud": -34.8678,
+        "Longitud": -58.0853
+    },
+    {
+        "Localidad": "CIUDAD EVITA BUENOS AIRES",
+        "Cantidad": 70,
+        "Latitud": -34.6895,
+        "Longitud": -58.4881
+    },
+    {
+        "Localidad": "CIUDADELA BUENOS AIRES",
+        "Cantidad": 38,
+        "Latitud": -34.6376,
+        "Longitud": -58.5352
+    },
+    {
+        "Localidad": "CLAYPOLE BUENOS AIRES",
+        "Cantidad": 137,
+        "Latitud": -34.8451,
+        "Longitud": -58.3746
+    },
+    {
+        "Localidad": "CLODOMIRA SANTIAGO DEL ESTERO",
+        "Cantidad": 3,
+        "Latitud": -27.5828,
+        "Longitud": -64.1313
+    },
+    {
+        "Localidad": "CLORINDA FORMOSA",
+        "Cantidad": 14,
+        "Latitud": -25.2847,
+        "Longitud": -57.5144
+    },
+    {
+        "Localidad": "COLON BUENOS AIRES",
+        "Cantidad": 50,
+        "Latitud": -33.8929,
+        "Longitud": -61.0953
+    },
+    {
+        "Localidad": "COLON ENTRE RIOS",
+        "Cantidad": 2,
+        "Latitud": -32.2466,
+        "Longitud": -58.1411
+    },
+    {
+        "Localidad": "COLONIA HINOJO BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -36.9733,
+        "Longitud": -60.1889
+    },
+    {
+        "Localidad": "COMODORO RIVADAVIA CHUBUT",
+        "Cantidad": 178,
+        "Latitud": -45.8646,
+        "Longitud": -67.4847
+    },
+    {
+        "Localidad": "CONCEPCION DEL URUGUAY ENTRE RIOS",
+        "Cantidad": 11,
+        "Latitud": -32.4824,
+        "Longitud": -58.2372
+    },
+    {
+        "Localidad": "CONCEPCION TUCUMAN",
+        "Cantidad": 23,
+        "Latitud": -27.3414,
+        "Longitud": -65.5998
+    },
+    {
+        "Localidad": "CONFLUENCIA NEUQUEN",
+        "Cantidad": 1,
+        "Latitud": -38.9516,
+        "Longitud": -68.0596
+    },
+    {
+        "Localidad": "CORDOBA CORDOBA",
+        "Cantidad": 8,
+        "Latitud": -31.4167,
+        "Longitud": -64.1833
+    },
+    {
+        "Localidad": "CORONDA SANTA FE",
+        "Cantidad": 5,
+        "Latitud": -31.9744,
+        "Longitud": -60.9209
+    },
+    {
+        "Localidad": "CORONEL BOGADO SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -33.2891,
+        "Longitud": -60.8346
+    },
+    {
+        "Localidad": "CORONEL DORREGO MENDOZA",
+        "Cantidad": 61,
+        "Latitud": -32.8956,
+        "Longitud": -68.8191
+    },
+    {
+        "Localidad": "CORONEL PRINGLES BUENOS AIRES",
+        "Cantidad": 47,
+        "Latitud": -38.3678,
+        "Longitud": -60.6165
+    },
+    {
+        "Localidad": "CORONEL SUAREZ BUENOS AIRES",
+        "Cantidad": 11,
+        "Latitud": -37.4535,
+        "Longitud": -61.9326
+    },
+    {
+        "Localidad": "CORONEL VIDAL BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -37.0387,
+        "Longitud": -57.7268
+    },
+    {
+        "Localidad": "CORRAL DE BUSTOS CORDOBA",
+        "Cantidad": 7,
+        "Latitud": -33.2831,
+        "Longitud": -62.3494
+    },
+    {
+        "Localidad": "CORRIENTES CORRIENTES",
+        "Cantidad": 7,
+        "Latitud": -27.4815,
+        "Longitud": -58.8471
+    },
+    {
+        "Localidad": "COSQUIN CORDOBA",
+        "Cantidad": 24,
+        "Latitud": -31.2442,
+        "Longitud": -64.4714
+    },
+    {
+        "Localidad": "CRESPO ENTRE RIOS",
+        "Cantidad": 2,
+        "Latitud": -31.3891,
+        "Longitud": -60.3075
+    },
+    {
+        "Localidad": "CRUZ ALTA CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -33.0103,
+        "Longitud": -62.6549
+    },
+    {
+        "Localidad": "CRUZ DEL EJE CORDOBA",
+        "Cantidad": 36,
+        "Latitud": -30.7259,
+        "Longitud": -64.8001
+    },
+    {
+        "Localidad": "CURUZU CUATIA CORRIENTES",
+        "Cantidad": 45,
+        "Latitud": -29.7873,
+        "Longitud": -58.0549
+    },
+    {
+        "Localidad": "CUTRAL-CO NEUQUEN",
+        "Cantidad": 21,
+        "Latitud": -38.9368,
+        "Longitud": -69.2346
+    },
+    {
+        "Localidad": "DAIREAUX BUENOS AIRES",
+        "Cantidad": 15,
+        "Latitud": -36.5939,
+        "Longitud": -61.7463
+    },
+    {
+        "Localidad": "DEAN FUNES CORDOBA",
+        "Cantidad": 35,
+        "Latitud": -30.4333,
+        "Longitud": -64.3500
+    },
+    {
+        "Localidad": "DIAMANTE ENTRE RIOS",
+        "Cantidad": 3,
+        "Latitud": -32.0656,
+        "Longitud": -60.6399
+    },
+    {
+        "Localidad": "DOCK SUD BUENOS AIRES",
+        "Cantidad": 13,
+        "Latitud": -34.6599,
+        "Longitud": -58.3559
+    },
+    {
+        "Localidad": "DOLORES BUENOS AIRES",
+        "Cantidad": 115,
+        "Latitud": -36.3134,
+        "Longitud": -57.6792
+    },
+    {
+        "Localidad": "DON TORCUATO BUENOS AIRES",
+        "Cantidad": 12,
+        "Latitud": -34.4769,
+        "Longitud": -58.5987
+    },
+    {
+        "Localidad": "EL BOLSON RIO NEGRO",
+        "Cantidad": 4,
+        "Latitud": -41.9601,
+        "Longitud": -71.5345
+    },
+    {
+        "Localidad": "EL CARRIL SALTA",
+        "Cantidad": 4,
+        "Latitud": -25.0845,
+        "Longitud": -65.5074
+    },
+    {
+        "Localidad": "EL NIHUIL MENDOZA",
+        "Cantidad": 1,
+        "Latitud": -34.7131,
+        "Longitud": -68.5186
+    },
+    {
+        "Localidad": "EL PALOMAR BUENOS AIRES",
+        "Cantidad": 19,
+        "Latitud": -34.6089,
+        "Longitud": -58.6122
+    },
+    {
+        "Localidad": "EL PATO BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.8249,
+        "Longitud": -58.1864
+    },
+    {
+        "Localidad": "EL TALAR BUENOS AIRES",
+        "Cantidad": 18,
+        "Latitud": -34.4667,
+        "Longitud": -58.6333
+    },
+    {
+        "Localidad": "EMBARCACION SALTA",
+        "Cantidad": 3,
+        "Latitud": -23.2124,
+        "Longitud": -64.1458
+    },
+    {
+        "Localidad": "EMPALME LOBOS BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -35.2066,
+        "Longitud": -59.1062
+    },
+    {
+        "Localidad": "EMPALME VILLA CONSTITUCION SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -33.2396,
+        "Longitud": -60.3478
+    },
+    {
+        "Localidad": "ENSENADA BUENOS AIRES",
+        "Cantidad": 66,
+        "Latitud": -34.8661,
+        "Longitud": -57.9083
+    },
+    {
+        "Localidad": "ESCOBAR BUENOS AIRES",
+        "Cantidad": 37,
+        "Latitud": -34.3489,
+        "Longitud": -58.7934
+    },
+    {
+        "Localidad": "ESPELETA BUENOS AIRES",
+        "Cantidad": 69,
+        "Latitud": -34.7833,
+        "Longitud": -58.2333
+    },
+    {
+        "Localidad": "ESPERANZA SANTA FE",
+        "Cantidad": 2,
+        "Latitud": -31.4465,
+        "Longitud": -60.9303
+    },
+    {
+        "Localidad": "ESPIGAS BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -37.0641,
+        "Longitud": -60.3276
+    },
+    {
+        "Localidad": "ESQUEL CHUBUT",
+        "Cantidad": 24,
+        "Latitud": -42.9111,
+        "Longitud": -71.3196
+    },
+    {
+        "Localidad": "ESQUINA CORRIENTES",
+        "Cantidad": 14,
+        "Latitud": -30.0144,
+        "Longitud": -59.5275
+    },
+    {
+        "Localidad": "EZEIZA BUENOS AIRES",
+        "Cantidad": 165,
+        "Latitud": -34.8532,
+        "Longitud": -58.5351
+    },
+    {
+        "Localidad": "FAMAILLA TUCUMAN",
+        "Cantidad": 86,
+        "Latitud": -27.0536,
+        "Longitud": -65.3911
+    },
+    {
+        "Localidad": "FERNANDEZ SANTIAGO DEL ESTERO",
+        "Cantidad": 2,
+        "Latitud": -27.9213,
+        "Longitud": -64.2101
+    },
+    {
+        "Localidad": "FIRMAT SANTA FE",
+        "Cantidad": 5,
+        "Latitud": -33.4833,
+        "Longitud": -61.4833
+    },
+    {
+        "Localidad": "FLORENCIO VARELA BUENOS AIRES",
+        "Cantidad": 715,
+        "Latitud": -34.8333,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "FLORIDA BUENOS AIRES",
+        "Cantidad": 6,
+        "Latitud": -34.5206,
+        "Longitud": -58.4897
+    },
+    {
+        "Localidad": "FONTANA CHACO",
+        "Cantidad": 13,
+        "Latitud": -27.0022,
+        "Longitud": -59.3419
+    },
+    {
+        "Localidad": "FORMOSA FORMOSA",
+        "Cantidad": 257,
+        "Latitud": -26.1849,
+        "Longitud": -58.1758
+    },
+    {
+        "Localidad": "FRAILE PINTADO JUJUY",
+        "Cantidad": 8,
+        "Latitud": -23.9511,
+        "Longitud": -64.7947
+    },
+    {
+        "Localidad": "FRANCISCO ALVAREZ BUENOS AIRES",
+        "Cantidad": 23,
+        "Latitud": -34.6356,
+        "Longitud": -58.8708
+    },
+    {
+        "Localidad": "FRANCISCO MADERO BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -35.0167,
+        "Longitud": -62.0167
+    },
+    {
+        "Localidad": "FRAY LUIS BELTRAN MENDOZA",
+        "Cantidad": 7,
+        "Latitud": -32.8833,
+        "Longitud": -68.8167
+    },
+    {
+        "Localidad": "FRAY MAMERTO ESQUIU CATAMARCA",
+        "Cantidad": 3,
+        "Latitud": -28.0167,
+        "Longitud": -65.7833
+    },
+    {
+        "Localidad": "FRIAS SANTIAGO DEL ESTERO",
+        "Cantidad": 2,
+        "Latitud": -28.6333,
+        "Longitud": -65.15
+    },
+    {
+        "Localidad": "FUNES SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -32.9333,
+        "Longitud": -60.8167
+    },
+    {
+        "Localidad": "GALVEZ SANTA FE",
+        "Cantidad": 13,
+        "Latitud": -32.0333,
+        "Longitud": -61.3833
+    },
+    {
+        "Localidad": "GARIN BUENOS AIRES",
+        "Cantidad": 20,
+        "Latitud": -34.4333,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "GENERAL ALVEAR MENDOZA",
+        "Cantidad": 249,
+        "Latitud": -34.0,
+        "Longitud": -67.6833
+    },
+    {
+        "Localidad": "GENERAL BELGRANO BUENOS AIRES",
+        "Cantidad": 10,
+        "Latitud": -35.7667,
+        "Longitud": -58.5
+    },
+    {
+        "Localidad": "GENERAL CABRERA CORDOBA",
+        "Cantidad": 7,
+        "Latitud": -32.8,
+        "Longitud": -64.3833
+    },
+    {
+        "Localidad": "GENERAL CERRI BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -38.7167,
+        "Longitud": -62.2833
+    },
+    {
+        "Localidad": "GENERAL DEHEZA CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -32.75,
+        "Longitud": -63.9333
+    },
+    {
+        "Localidad": "GENERAL ENRIQUE GODOY RIO NEGRO",
+        "Cantidad": 15,
+        "Latitud": -39.25,
+        "Longitud": -67.75
+    },
+    {
+        "Localidad": "GENERAL LAMADRID BUENOS AIRES",
+        "Cantidad": 24,
+        "Latitud": -37.25,
+        "Longitud": -61.3833
+    },
+    {
+        "Localidad": "GENERAL LAS HERAS BUENOS AIRES",
+        "Cantidad": 36,
+        "Latitud": -34.9167,
+        "Longitud": -58.9333
+    },
+    {
+        "Localidad": "GENERAL MOSCONI CHUBUT",
+        "Cantidad": 5,
+        "Latitud": -45.85,
+        "Longitud": -67.5
+    },
+    {
+        "Localidad": "GENERAL PACHECO BUENOS AIRES",
+        "Cantidad": 26,
+        "Latitud": -34.45,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "GENERAL PICO LA PAMPA",
+        "Cantidad": 8,
+        "Latitud": -35.65,
+        "Longitud": -63.75
+    },
+    {
+        "Localidad": "GENERAL PINEDO CHACO",
+        "Cantidad": 6,
+        "Latitud": -27.3167,
+        "Longitud": -61.2833
+    },
+    {
+        "Localidad": "GENERAL RODRIGUEZ BUENOS AIRES",
+        "Cantidad": 49,
+        "Latitud": -34.6167,
+        "Longitud": -58.95
+    },
+    {
+        "Localidad": "GENERAL ROJO BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -33.4,
+        "Longitud": -60.25
+    },
+    {
+        "Localidad": "GENERAL SAN MARTIN JUJUY",
+        "Cantidad": 40,
+        "Latitud": -23.2,
+        "Longitud": -64.35
+    },
+    {
+        "Localidad": "GENERAL VILLEGAS BUENOS AIRES",
+        "Cantidad": 40,
+        "Latitud": -35.0333,
+        "Longitud": -63.0167
+    },
+    {
+        "Localidad": "GLEW BUENOS AIRES",
+        "Cantidad": 117,
+        "Latitud": -34.9,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "GODOY CRUZ MENDOZA",
+        "Cantidad": 206,
+        "Latitud": -32.9167,
+        "Longitud": -68.8333
+    },
+    {
+        "Localidad": "GONNET BUENOS AIRES",
+        "Cantidad": 20,
+        "Latitud": -34.8833,
+        "Longitud": -58.05
+    },
+    {
+        "Localidad": "GONZALEZ CATAN BUENOS AIRES",
+        "Cantidad": 254,
+        "Latitud": -34.7833,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "GOYA CORRIENTES",
+        "Cantidad": 94,
+        "Latitud": -29.15,
+        "Longitud": -59.2667
+    },
+    {
+        "Localidad": "GRAL MOSCONI SALTA",
+        "Cantidad": 11,
+        "Latitud": -22.6,
+        "Longitud": -63.8167
+    },
+    {
+        "Localidad": "GRAL ROCA RIO NEGRO",
+        "Cantidad": 115,
+        "Latitud": -39.0333,
+        "Longitud": -67.5833
+    },
+    {
+        "Localidad": "GRAN BOURG BUENOS AIRES",
+        "Cantidad": 55,
+        "Latitud": -34.45,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "GRANADERO BAIGORRIA SANTA FE",
+        "Cantidad": 3,
+        "Latitud": -32.8167,
+        "Longitud": -60.7
+    },
+    {
+        "Localidad": "GUALEGUAYCHU ENTRE RIOS",
+        "Cantidad": 19,
+        "Latitud": -33.0167,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "GUAMINI BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -37.0167,
+        "Longitud": -62.4
+    },
+    {
+        "Localidad": "GUATIMOZIN CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -33.2833,
+        "Longitud": -62.0167
+    },
+    {
+        "Localidad": "GUAYMALLEN MENDOZA",
+        "Cantidad": 85,
+        "Latitud": -32.8833,
+        "Longitud": -68.8167
+    },
+    {
+        "Localidad": "GUERNICA BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -34.9,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "GUILLERMO ENRIQUE HUDSON BUENOS AIRES",
+        "Cantidad": 49,
+        "Latitud": -34.8,
+        "Longitud": -58.2
+    },
+    {
+        "Localidad": "GUTIERREZ BUENOS AIRES",
+        "Cantidad": 17,
+        "Latitud": -34.8167,
+        "Longitud": -58.2167
+    },
+    {
+        "Localidad": "GUTIERREZ MENDOZA",
+        "Cantidad": 62,
+        "Latitud": -32.9167,
+        "Longitud": -68.8167
+    },
+    {
+        "Localidad": "HAEDO BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.6333,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "HENDERSON BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -36.3,
+        "Longitud": -61.3333
+    },
+    {
+        "Localidad": "HERNANDO CORDOBA",
+        "Cantidad": 14,
+        "Latitud": -33.25,
+        "Longitud": -63.8333
+    },
+    {
+        "Localidad": "HUANGUELEN BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -37.0,
+        "Longitud": -61.8333
+    },
+    {
+        "Localidad": "HUERTA GRANDE CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.05,
+        "Longitud": -64.4833
+    },
+    {
+        "Localidad": "HURLINGHAM BUENOS AIRES",
+        "Cantidad": 59,
+        "Latitud": -34.6,
+        "Longitud": -58.6333
+    },
+    {
+        "Localidad": "INDIO RICO BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -38.3,
+        "Longitud": -60.25
+    },
+    {
+        "Localidad": "INGENIERO MASCHWITZ BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -34.4,
+        "Longitud": -58.7333
+    },
+    {
+        "Localidad": "INGENIERO WHITE BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -38.7833,
+        "Longitud": -62.2667
+    },
+    {
+        "Localidad": "ISIDRO CASANOVA BUENOS AIRES",
+        "Cantidad": 154,
+        "Latitud": -34.7,
+        "Longitud": -58.6
+    },
+    {
+        "Localidad": "ITA IBATE CORRIENTES",
+        "Cantidad": 3,
+        "Latitud": -27.2833,
+        "Longitud": -57.4333
+    },
+    {
+        "Localidad": "ITATI CORRIENTES",
+        "Cantidad": 24,
+        "Latitud": -27.2667,
+        "Longitud": -58.25
+    },
+    {
+        "Localidad": "ITUZAINGO BUENOS AIRES",
+        "Cantidad": 59,
+        "Latitud": -34.65,
+        "Longitud": -58.6667
+    },
+    {
+        "Localidad": "JACHAL SAN JUAN",
+        "Cantidad": 41,
+        "Latitud": -30.2333,
+        "Longitud": -68.75
+    },
+    {
+        "Localidad": "JAMES CRAIK CORDOBA",
+        "Cantidad": 2,
+        "Latitud": -32.2,
+        "Longitud": -63.5667
+    },
+    {
+        "Localidad": "JESUS MARIA CORDOBA",
+        "Cantidad": 19,
+        "Latitud": -30.9833,
+        "Longitud": -64.1
+    },
+    {
+        "Localidad": "JOSE C PAZ BUENOS AIRES",
+        "Cantidad": 117,
+        "Latitud": -34.5167,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "JOSE L SUAREZ BUENOS AIRES",
+        "Cantidad": 22,
+        "Latitud": -34.5,
+        "Longitud": -58.55
+    },
+    {
+        "Localidad": "JOSE MARMOL BUENOS AIRES",
+        "Cantidad": 11,
+        "Latitud": -34.7833,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "JUAN JOSE PASO BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -35.0,
+        "Longitud": -62.0
+    },
+    {
+        "Localidad": "JUNIN BUENOS AIRES",
+        "Cantidad": 84,
+        "Latitud": -34.5833,
+        "Longitud": -60.95
+    },
+    {
+        "Localidad": "JUNIN DE LOS ANDES NEUQUEN",
+        "Cantidad": 5,
+        "Latitud": -39.95,
+        "Longitud": -71.0667
+    },
+    {
+        "Localidad": "JUNIN MENDOZA",
+        "Cantidad": 56,
+        "Latitud": -32.7833,
+        "Longitud": -68.8
+    },
+    {
+        "Localidad": "JUSTO DARACT SAN LUIS",
+        "Cantidad": 4,
+        "Latitud": -33.2833,
+        "Longitud": -65.3333
+    },
+    {
+        "Localidad": "LA BANDA SANTIAGO DEL ESTERO",
+        "Cantidad": 66,
+        "Latitud": -27.7333,
+        "Longitud": -64.2333
+    },
+    {
+        "Localidad": "LA CALERA CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.35,
+        "Longitud": -64.35
+    },
+    {
+        "Localidad": "LA COCHA TUCUMAN",
+        "Cantidad": 9,
+        "Latitud": -27.8,
+        "Longitud": -65.6
+    },
+    {
+        "Localidad": "LA CRUZ CORRIENTES",
+        "Cantidad": 3,
+        "Latitud": -29.1833,
+        "Longitud": -56.65
+    },
+    {
+        "Localidad": "LA CUMBRE CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -30.9833,
+        "Longitud": -64.5
+    },
+    {
+        "Localidad": "LA EMILIA BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -33.3,
+        "Longitud": -60.2167
+    },
+    {
+        "Localidad": "LA ESPERANZA JUJUY",
+        "Cantidad": 2,
+        "Latitud": -23.8,
+        "Longitud": -64.7833
+    },
+    {
+        "Localidad": "LA FALDA CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.1,
+        "Longitud": -64.4833
+    },
+    {
+        "Localidad": "LA GRANJA BUENOS AIRES",
+        "Cantidad": 30,
+        "Latitud": -34.9,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "LA PAZ ENTRE RIOS",
+        "Cantidad": 3,
+        "Latitud": -30.75,
+        "Longitud": -59.5833
+    },
+    {
+        "Localidad": "LA PAZ MENDOZA",
+        "Cantidad": 169,
+        "Latitud": -33.4667,
+        "Longitud": -68.5833
+    },
+    {
+        "Localidad": "LA PLATA BUENOS AIRES",
+        "Cantidad": 557,
+        "Latitud": -34.9214,
+        "Longitud": -57.9545
+    },
+    {
+        "Localidad": "LA RIOJA LA RIOJA",
+        "Cantidad": 45,
+        "Latitud": -29.4131,
+        "Longitud": -66.8558
+    },
+    {
+        "Localidad": "LA TOMA SAN LUIS",
+        "Cantidad": 1,
+        "Latitud": -33.2681,
+        "Longitud": -65.6169
+    },
+    {
+        "Localidad": "LABOULAYE CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -34.1267,
+        "Longitud": -63.3906
+    },
+    {
+        "Localidad": "LAFERRERE BUENOS AIRES",
+        "Cantidad": 210,
+        "Latitud": -34.7486,
+        "Longitud": -58.5611
+    },
+    {
+        "Localidad": "LAGUNA LARGA CORDOBA",
+        "Cantidad": 4,
+        "Latitud": -31.1333,
+        "Longitud": -63.6667
+    },
+    {
+        "Localidad": "LAGUNA PAIVA SANTA FE",
+        "Cantidad": 5,
+        "Latitud": -31.2833,
+        "Longitud": -60.6667
+    },
+    {
+        "Localidad": "LANTERI SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -28.8333,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "LANUS OESTE BUENOS AIRES",
+        "Cantidad": 277,
+        "Latitud": -34.7,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "LAPRIDA BUENOS AIRES",
+        "Cantidad": 14,
+        "Latitud": -36.5333,
+        "Longitud": -60.8333
+    },
+    {
+        "Localidad": "LAS CATITAS MENDOZA",
+        "Cantidad": 75,
+        "Latitud": -33.2833,
+        "Longitud": -68.4667
+    },
+    {
+        "Localidad": "LAS FLORES BUENOS AIRES",
+        "Cantidad": 76,
+        "Latitud": -36.0167,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "LAS HERAS MENDOZA",
+        "Cantidad": 273,
+        "Latitud": -32.8333,
+        "Longitud": -68.8167
+    },
+    {
+        "Localidad": "LAS HERAS SANTA CRUZ",
+        "Cantidad": 6,
+        "Latitud": -46.55,
+        "Longitud": -68.9333
+    },
+    {
+        "Localidad": "LAS HIGUERAS CORDOBA",
+        "Cantidad": 5,
+        "Latitud": -33.1167,
+        "Longitud": -64.3
+    },
+    {
+        "Localidad": "LAS LAJAS NEUQUEN",
+        "Cantidad": 3,
+        "Latitud": -38.5167,
+        "Longitud": -70.3667
+    },
+    {
+        "Localidad": "LAS PERDICES CORDOBA",
+        "Cantidad": 2,
+        "Latitud": -33.15,
+        "Longitud": -63.7
+    },
+    {
+        "Localidad": "LAVALLE CORRIENTES",
+        "Cantidad": 4,
+        "Latitud": -29.25,
+        "Longitud": -59.2
+    },
+    {
+        "Localidad": "LEONES CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -33.75,
+        "Longitud": -62.3
+    },
+    {
+        "Localidad": "LIBERTAD BUENOS AIRES",
+        "Cantidad": 62,
+        "Latitud": -34.6833,
+        "Longitud": -58.6333
+    },
+    {
+        "Localidad": "LIMA BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -33.75,
+        "Longitud": -59.4
+    },
+    {
+        "Localidad": "LINCOLN BUENOS AIRES",
+        "Cantidad": 24,
+        "Latitud": -34.8667,
+        "Longitud": -61.5333
+    },
+    {
+        "Localidad": "LLAVALLOL BUENOS AIRES",
+        "Cantidad": 13,
+        "Latitud": -34.8167,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "LOBERIA BUENOS AIRES",
+        "Cantidad": 18,
+        "Latitud": -38.1,
+        "Longitud": -58.7833
+    },
+    {
+        "Localidad": "LOBOS BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -35.2,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "LOMA HERMOSA BUENOS AIRES",
+        "Cantidad": 49,
+        "Latitud": -34.5833,
+        "Longitud": -58.5833
+    },
+    {
+        "Localidad": "LOMA NEGRA BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -36.8833,
+        "Longitud": -60.25
+    },
+    {
+        "Localidad": "LOMAS DE ZAMORA BUENOS AIRES",
+        "Cantidad": 349,
+        "Latitud": -34.7667,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "LONGCHAMPS BUENOS AIRES",
+        "Cantidad": 51,
+        "Latitud": -34.8333,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "LOS CARDALES BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -34.3,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "LOS CORRALITOS MENDOZA",
+        "Cantidad": 25,
+        "Latitud": -32.8833,
+        "Longitud": -68.75
+    },
+    {
+        "Localidad": "LOS RALOS TUCUMAN",
+        "Cantidad": 7,
+        "Latitud": -26.8167,
+        "Longitud": -65.1
+    },
+    {
+        "Localidad": "LOS TOLDOS BUENOS AIRES",
+        "Cantidad": 17,
+        "Latitud": -35.0167,
+        "Longitud": -61.05
+    },
+    {
+        "Localidad": "LUIS BELTRAN RIO NEGRO",
+        "Cantidad": 1,
+        "Latitud": -39.3,
+        "Longitud": -65.75
+    },
+    {
+        "Localidad": "LUIS GUILLON BUENOS AIRES",
+        "Cantidad": 27,
+        "Latitud": -34.8333,
+        "Longitud": -58.45
+    },
+    {
+        "Localidad": "LUJAN BUENOS AIRES",
+        "Cantidad": 28,
+        "Latitud": -34.5667,
+        "Longitud": -59.1167
+    },
+    {
+        "Localidad": "LUJAN DE CUYO MENDOZA",
+        "Cantidad": 32,
+        "Latitud": -33.0167,
+        "Longitud": -68.8667
+    },
+    {
+        "Localidad": "LULES TUCUMAN",
+        "Cantidad": 57,
+        "Latitud": -26.9333,
+        "Longitud": -65.3333
+    },
+    {
+        "Localidad": "LUZURIAGA MENDOZA",
+        "Cantidad": 71,
+        "Latitud": -32.9,
+        "Longitud": -68.8333
+    },
+    {
+        "Localidad": "MAGDALENA BUENOS AIRES",
+        "Cantidad": 14,
+        "Latitud": -35.0833,
+        "Longitud": -57.6
+    },
+    {
+        "Localidad": "MAIPU BUENOS AIRES",
+        "Cantidad": 62,
+        "Latitud": -36.8667,
+        "Longitud": -57.8833
+    },
+    {
+        "Localidad": "MAIPU MENDOZA",
+        "Cantidad": 179,
+        "Latitud": -32.9833,
+        "Longitud": -68.7833
+    },
+    {
+        "Localidad": "MALARGUE MENDOZA",
+        "Cantidad": 59,
+        "Latitud": -35.4833,
+        "Longitud": -69.5833
+    },
+    {
+        "Localidad": "MANUEL DERQUI CORRIENTES",
+        "Cantidad": 22,
+        "Latitud": -27.4833,
+        "Longitud": -58.8167
+    },
+    {
+        "Localidad": "MAR DE AJO BUENOS AIRES",
+        "Cantidad": 18,
+        "Latitud": -36.7167,
+        "Longitud": -56.6833
+    },
+    {
+        "Localidad": "MAR DEL PLATA BUENOS AIRES",
+        "Cantidad": 678,
+        "Latitud": -38.0023,
+        "Longitud": -57.5575
+    },
+    {
+        "Localidad": "MARCOS PAZ BUENOS AIRES",
+        "Cantidad": 242,
+        "Latitud": -34.7833,
+        "Longitud": -58.8333
+    },
+    {
+        "Localidad": "MARIA IGNACIA BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -37.25,
+        "Longitud": -59.25
+    },
+    {
+        "Localidad": "MARIA JUANA SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -31.6,
+        "Longitud": -61.8833
+    },
+    {
+        "Localidad": "MARIANO ACOSTA BUENOS AIRES",
+        "Cantidad": 68,
+        "Latitud": -34.6833,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "MARTINEZ BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.5,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "MATHEU BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.3667,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "MBURUCUYA CORRIENTES",
+        "Cantidad": 2,
+        "Latitud": -28.9833,
+        "Longitud": -58.1333
+    },
+    {
+        "Localidad": "MEDANOS BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -38.8333,
+        "Longitud": -62.6833
+    },
+    {
+        "Localidad": "MELINCUE SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -33.7167,
+        "Longitud": -61.4833
+    },
+    {
+        "Localidad": "MENDOZA MENDOZA",
+        "Cantidad": 92,
+        "Latitud": -32.8833,
+        "Longitud": -68.8167
+    },
+    {
+        "Localidad": "MERCEDES BUENOS AIRES",
+        "Cantidad": 79,
+        "Latitud": -34.65,
+        "Longitud": -59.4333
+    },
+    {
+        "Localidad": "MERLO BUENOS AIRES",
+        "Cantidad": 231,
+        "Latitud": -34.6667,
+        "Longitud": -58.7333
+    },
+    {
+        "Localidad": "MERLO SAN LUIS",
+        "Cantidad": 3,
+        "Latitud": -32.35,
+        "Longitud": -65.0167
+    },
+    {
+        "Localidad": "METAN SALTA",
+        "Cantidad": 42,
+        "Latitud": -25.5,
+        "Longitud": -64.9667
+    },
+    {
+        "Localidad": "MIRAMAR BUENOS AIRES",
+        "Cantidad": 59,
+        "Latitud": -38.2667,
+        "Longitud": -57.8333
+    },
+    {
+        "Localidad": "MONJE SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -32.4333,
+        "Longitud": -60.7167
+    },
+    {
+        "Localidad": "MONTE BUENOS AIRES",
+        "Cantidad": 19,
+        "Latitud": -35.4333,
+        "Longitud": -58.8667
+    },
+    {
+        "Localidad": "MONTE BUEY CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -33.15,
+        "Longitud": -62.6
+    },
+    {
+        "Localidad": "MONTE CHINGOLO BUENOS AIRES",
+        "Cantidad": 44,
+        "Latitud": -34.7333,
+        "Longitud": -58.3667
+    },
+    {
+        "Localidad": "MONTE COMAN MENDOZA",
+        "Cantidad": 7,
+        "Latitud": -34.6167,
+        "Longitud": -68.3
+    },
+    {
+        "Localidad": "MONTE GRANDE BUENOS AIRES",
+        "Cantidad": 170,
+        "Latitud": -34.9,
+        "Longitud": -58.4667
+    },
+    {
+        "Localidad": "MONTE HERMOSO BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -38.9833,
+        "Longitud": -61.2667
+    },
+    {
+        "Localidad": "MONTERO TUCUMAN",
+        "Cantidad": 6,
+        "Latitud": -27.0,
+        "Longitud": -65.5833
+    },
+    {
+        "Localidad": "MORENO BUENOS AIRES",
+        "Cantidad": 14,
+        "Latitud": -34.6333,
+        "Longitud": -58.7833
+    },
+    {
+        "Localidad": "MORON BUENOS AIRES",
+        "Cantidad": 41,
+        "Latitud": -34.65,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "MUNRO BUENOS AIRES",
+        "Cantidad": 7,
+        "Latitud": -34.5333,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "NAVARRO BUENOS AIRES",
+        "Cantidad": 20,
+        "Latitud": -35.0167,
+        "Longitud": -59.2833
+    },
+    {
+        "Localidad": "NECOCHEA BUENOS AIRES",
+        "Cantidad": 201,
+        "Latitud": -38.55,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "NELSON SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -31.25,
+        "Longitud": -60.75
+    },
+    {
+        "Localidad": "NEUQUEN NEUQUEN",
+        "Cantidad": 18,
+        "Latitud": -38.95,
+        "Longitud": -68.0667
+    },
+    {
+        "Localidad": "NOGOYA ENTRE RIOS",
+        "Cantidad": 7,
+        "Latitud": -32.3833,
+        "Longitud": -59.8
+    },
+    {
+        "Localidad": "OBERA MISIONES",
+        "Cantidad": 63,
+        "Latitud": -27.4833,
+        "Longitud": -55.1167
+    },
+    {
+        "Localidad": "OLAVARRIA BUENOS AIRES",
+        "Cantidad": 178,
+        "Latitud": -36.7667,
+        "Longitud": -60.2333
+    },
+    {
+        "Localidad": "OLIVOS BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -34.5167,
+        "Longitud": -58.4833
+    },
+    {
+        "Localidad": "ONCATIVO CORDOBA",
+        "Cantidad": 10,
+        "Latitud": -31.9,
+        "Longitud": -63.6833
+    },
+    {
+        "Localidad": "ORAN SALTA",
+        "Cantidad": 13,
+        "Latitud": -23.1333,
+        "Longitud": -64.3333
+    },
+    {
+        "Localidad": "ORIENTE BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -38.25,
+        "Longitud": -60.25
+    },
+    {
+        "Localidad": "OTAMENDI BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -38.0833,
+        "Longitud": -57.6667
+    },
+    {
+        "Localidad": "PABLO NOGUES BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.4833,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "PALPALA JUJUY",
+        "Cantidad": 4,
+        "Latitud": -24.2567,
+        "Longitud": -65.2133
+    },
+    {
+        "Localidad": "PARANA ENTRE RIOS",
+        "Cantidad": 16,
+        "Latitud": -31.7333,
+        "Longitud": -60.5333
+    },
+    {
+        "Localidad": "PARQUE LELOIR BUENOS AIRES",
+        "Cantidad": 6,
+        "Latitud": -34.65,
+        "Longitud": -58.6667
+    },
+    {
+        "Localidad": "PASO DE LA PATRIA CORRIENTES",
+        "Cantidad": 7,
+        "Latitud": -27.3167,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "PASO DE LOS LIBRES CORRIENTES",
+        "Cantidad": 78,
+        "Latitud": -29.7167,
+        "Longitud": -57.0833
+    },
+    {
+        "Localidad": "PASO DEL REY BUENOS AIRES",
+        "Cantidad": 21,
+        "Latitud": -34.6333,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "PEDRO LURO BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -38.9,
+        "Longitud": -62.7
+    },
+    {
+        "Localidad": "PEHUAJO BUENOS AIRES",
+        "Cantidad": 64,
+        "Latitud": -35.8167,
+        "Longitud": -61.9
+    },
+    {
+        "Localidad": "PEREZ SANTA FE",
+        "Cantidad": 2,
+        "Latitud": -32.9833,
+        "Longitud": -60.7167
+    },
+    {
+        "Localidad": "PERGAMINO BUENOS AIRES",
+        "Cantidad": 81,
+        "Latitud": -33.8833,
+        "Longitud": -60.5667
+    },
+    {
+        "Localidad": "PERICO JUJUY",
+        "Cantidad": 5,
+        "Latitud": -24.3833,
+        "Longitud": -65.1167
+    },
+    {
+        "Localidad": "PICHANAL SALTA",
+        "Cantidad": 7,
+        "Latitud": -23.3,
+        "Longitud": -64.2167
+    },
+    {
+        "Localidad": "PICO TRUNCADO SANTA CRUZ",
+        "Cantidad": 7,
+        "Latitud": -46.7833,
+        "Longitud": -67.9667
+    },
+    {
+        "Localidad": "PIGUE BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -37.6,
+        "Longitud": -62.4
+    },
+    {
+        "Localidad": "PILAR BUENOS AIRES",
+        "Cantidad": 6,
+        "Latitud": -34.4667,
+        "Longitud": -58.9167
+    },
+    {
+        "Localidad": "PINAMAR BUENOS AIRES",
+        "Cantidad": 11,
+        "Latitud": -37.1,
+        "Longitud": -56.85
+    },
+    {
+        "Localidad": "PIROVANO BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -36.3,
+        "Longitud": -61.6
+    },
+    {
+        "Localidad": "PLAZA HUINCUL NEUQUEN",
+        "Cantidad": 3,
+        "Latitud": -38.9333,
+        "Longitud": -69.2
+    },
+    {
+        "Localidad": "PLOTTIER NEUQUEN",
+        "Cantidad": 6,
+        "Latitud": -38.9667,
+        "Longitud": -68.2333
+    },
+    {
+        "Localidad": "POCITO ABERASTAIN SAN JUAN",
+        "Cantidad": 4,
+        "Latitud": -31.65,
+        "Longitud": -68.5833
+    },
+    {
+        "Localidad": "POCITO SAN JUAN",
+        "Cantidad": 39,
+        "Latitud": -31.65,
+        "Longitud": -68.5833
+    },
+    {
+        "Localidad": "POMONA RIO NEGRO",
+        "Cantidad": 1,
+        "Latitud": -39.4333,
+        "Longitud": -65.7167
+    },
+    {
+        "Localidad": "PONTEVEDRA BUENOS AIRES",
+        "Cantidad": 46,
+        "Latitud": -34.7,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "POSADAS MISIONES",
+        "Cantidad": 53,
+        "Latitud": -27.3667,
+        "Longitud": -55.9
+    },
+    {
+        "Localidad": "POZO DEL MOLLE CORDOBA",
+        "Cantidad": 7,
+        "Latitud": -32.0333,
+        "Longitud": -63.4833
+    },
+    {
+        "Localidad": "PRESIDENTE DERQUI BUENOS AIRES",
+        "Cantidad": 31,
+        "Latitud": -34.4667,
+        "Longitud": -58.9167
+    },
+    {
+        "Localidad": "PROB BS AIRES BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -34.6,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "PROB BS AIRES CAPITAL FEDERAL",
+        "Cantidad": 2,
+        "Latitud": -34.6037,
+        "Longitud": -58.3816
+    },
+    {
+        "Localidad": "PROV BS AIRES BUENOS AIRES",
+        "Cantidad": 531,
+        "Latitud": -34.6,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "PROV BS AIRES CAPITAL FEDERAL",
+        "Cantidad": 4,
+        "Latitud": -34.6037,
+        "Longitud": -58.3816
+    },
+    {
+        "Localidad": "PROV BUENOS AIRES CAPITAL FEDERAL",
+        "Cantidad": 2,
+        "Latitud": -34.6037,
+        "Longitud": -58.3816
+    },
+    {
+        "Localidad": "QUILMES ESTE BUENOS AIRES",
+        "Cantidad": 133,
+        "Latitud": -34.7333,
+        "Longitud": -58.25
+    },
+    {
+        "Localidad": "QUILMES OESTE BUENOS AIRES",
+        "Cantidad": 114,
+        "Latitud": -34.7333,
+        "Longitud": -58.25
+    },
+    {
+        "Localidad": "QUITILIPI CHACO",
+        "Cantidad": 34,
+        "Latitud": -26.25,
+        "Longitud": -60.2167
+    },
+    {
+        "Localidad": "RADA TILLY CHUBUT",
+        "Cantidad": 8,
+        "Latitud": -45.9333,
+        "Longitud": -67.55
+    },
+    {
+        "Localidad": "RAFAEL CALZADA BUENOS AIRES",
+        "Cantidad": 77,
+        "Latitud": -34.7833,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "RAFAEL CASTILLO BUENOS AIRES",
+        "Cantidad": 96,
+        "Latitud": -34.7,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "RAFAELA SANTA FE",
+        "Cantidad": 34,
+        "Latitud": -31.25,
+        "Longitud": -61.5
+    },
+    {
+        "Localidad": "RAMOS MEJIA BUENOS AIRES",
+        "Cantidad": 16,
+        "Latitud": -34.65,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "RANCHOS BUENOS AIRES",
+        "Cantidad": 13,
+        "Latitud": -35.5,
+        "Longitud": -58.3
+    },
+    {
+        "Localidad": "RANELAGH BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.7833,
+        "Longitud": -58.2167
+    },
+    {
+        "Localidad": "RAUCH BUENOS AIRES",
+        "Cantidad": 4,
+        "Latitud": -36.6667,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "RAWSON CHUBUT",
+        "Cantidad": 34,
+        "Latitud": -43.3,
+        "Longitud": -65.1
+    },
+    {
+        "Localidad": "RAWSON SAN JUAN",
+        "Cantidad": 99,
+        "Latitud": -31.65,
+        "Longitud": -68.5833
+    },
+    {
+        "Localidad": "REAL DEL PADRE MENDOZA",
+        "Cantidad": 11,
+        "Latitud": -34.6167,
+        "Longitud": -68.3
+    },
+    {
+        "Localidad": "REALICO LA PAMPA",
+        "Cantidad": 1,
+        "Latitud": -35.0333,
+        "Longitud": -64.25
+    },
+    {
+        "Localidad": "RECONQUISTA SANTA FE",
+        "Cantidad": 33,
+        "Latitud": -29.15,
+        "Longitud": -59.65
+    },
+    {
+        "Localidad": "RECREO SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -31.3,
+        "Longitud": -60.7167
+    },
+    {
+        "Localidad": "REMEDIOS DE ESCALADA BUENOS AIRES",
+        "Cantidad": 39,
+        "Latitud": -34.7167,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "RESISTENCIA CHACO",
+        "Cantidad": 66,
+        "Latitud": -27.45,
+        "Longitud": -58.9833
+    },
+    {
+        "Localidad": "RIO CEBALLOS CORDOBA",
+        "Cantidad": 3,
+        "Latitud": -31.1,
+        "Longitud": -64.3
+    },
+    {
+        "Localidad": "RIO COLORADO RIO NEGRO",
+        "Cantidad": 2,
+        "Latitud": -39.0333,
+        "Longitud": -62.1
+    },
+    {
+        "Localidad": "RIO CUARTO CORDOBA",
+        "Cantidad": 26,
+        "Latitud": -33.1333,
+        "Longitud": -64.35
+    },
+    {
+        "Localidad": "RIO GALLEGOS SANTA CRUZ",
+        "Cantidad": 21,
+        "Latitud": -51.6333,
+        "Longitud": -69.2167
+    },
+    {
+        "Localidad": "RIO GRANDE TIERRA DEL FUEGO",
+        "Cantidad": 6,
+        "Latitud": -53.7833,
+        "Longitud": -67.7
+    },
+    {
+        "Localidad": "RIO MAYO CHUBUT",
+        "Cantidad": 2,
+        "Latitud": -45.7,
+        "Longitud": -70.25
+    },
+    {
+        "Localidad": "RIO PRIMERO CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -31.3,
+        "Longitud": -63.4
+    },
+    {
+        "Localidad": "RIO SECO TUCUMAN",
+        "Cantidad": 2,
+        "Latitud": -26.9,
+        "Longitud": -65.3
+    },
+    {
+        "Localidad": "RIO SEGUNDO CORDOBA",
+        "Cantidad": 11,
+        "Latitud": -31.65,
+        "Longitud": -63.5167
+    },
+    {
+        "Localidad": "RIO TERCERO CORDOBA",
+        "Cantidad": 7,
+        "Latitud": -32.1833,
+        "Longitud": -64.1
+    },
+    {
+        "Localidad": "RIVADAVIA MENDOZA",
+        "Cantidad": 156,
+        "Latitud": -32.9833,
+        "Longitud": -68.7833
+    },
+    {
+        "Localidad": "RIVADAVIA SAN JUAN",
+        "Cantidad": 22,
+        "Latitud": -31.5333,
+        "Longitud": -68.5833
+    },
+    {
+        "Localidad": "RODEO DEL MEDIO MENDOZA",
+        "Cantidad": 23,
+        "Latitud": -32.9333,
+        "Longitud": -68.7833
+    },
+    {
+        "Localidad": "ROJAS BUENOS AIRES",
+        "Cantidad": 31,
+        "Latitud": -34.1,
+        "Longitud": -60.7167
+    },
+    {
+        "Localidad": "ROLDAN SANTA FE",
+        "Cantidad": 2,
+        "Latitud": -32.9,
+        "Longitud": -60.9333
+    },
+    {
+        "Localidad": "ROQUE SAENZ PEÑA CHACO",
+        "Cantidad": 49,
+        "Latitud": -26.7833,
+        "Longitud": -60.45
+    },
+    {
+        "Localidad": "ROSARIO DE LA FRONTERA SALTA",
+        "Cantidad": 62,
+        "Latitud": -25.8,
+        "Longitud": -64.9667
+    },
+    {
+        "Localidad": "ROSARIO SANTA FE",
+        "Cantidad": 176,
+        "Latitud": -32.95,
+        "Longitud": -60.6667
+    },
+    {
+        "Localidad": "RUFINO SANTA FE",
+        "Cantidad": 2,
+        "Latitud": -34.2667,
+        "Longitud": -62.7167
+    },
+    {
+        "Localidad": "SAAVEDRA BUENOS AIRES",
+        "Cantidad": 2,
+        "Latitud": -37.95,
+        "Longitud": -61.9333
+    },
+    {
+        "Localidad": "SAENZ PEÑA BUENOS AIRES",
+        "Cantidad": 8,
+        "Latitud": -34.6,
+        "Longitud": -58.5
+    },
+    {
+        "Localidad": "SALADAS CORRIENTES",
+        "Cantidad": 47,
+        "Latitud": -28.25,
+        "Longitud": -58.6333
+    },
+    {
+        "Localidad": "SALADILLO BUENOS AIRES",
+        "Cantidad": 1,
+        "Latitud": -35.6333,
+        "Longitud": -59.7833
+    },
+    {
+        "Localidad": "SALDAN CORDOBA",
+        "Cantidad": 2,
+        "Latitud": -31.3,
+        "Longitud": -64.3
+    },
+    {
+        "Localidad": "SALSIPUEDES CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -31.2,
+        "Longitud": -64.3
+    },
+    {
+        "Localidad": "SALTA SALTA",
+        "Cantidad": 111,
+        "Latitud": -24.7833,
+        "Longitud": -65.4167
+    },
+    {
+        "Localidad": "SALTO BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.3,
+        "Longitud": -60.25
+    },
+    {
+        "Localidad": "SAMPACHO CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -33.3833,
+        "Longitud": -64.7167
+    },
+    {
+        "Localidad": "SAN ANDRES BUENOS AIRES",
+        "Cantidad": 6,
+        "Latitud": -34.55,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "SAN ANDRES DE GILES BUENOS AIRES",
+        "Cantidad": 23,
+        "Latitud": -34.45,
+        "Longitud": -59.45
+    },
+    {
+        "Localidad": "SAN ANTONIO DE ARECO BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -34.25,
+        "Longitud": -59.4667
+    },
+    {
+        "Localidad": "SAN ANTONIO DE PADUA BUENOS AIRES",
+        "Cantidad": 16,
+        "Latitud": -34.65,
+        "Longitud": -58.6667
+    },
+    {
+        "Localidad": "SAN ANTONIO OESTE RIO NEGRO",
+        "Cantidad": 3,
+        "Latitud": -40.7333,
+        "Longitud": -65.0333
+    },
+    {
+        "Localidad": "SAN BERNARDO BUENOS AIRES",
+        "Cantidad": 3,
+        "Latitud": -36.7,
+        "Longitud": -56.6833
+    },
+    {
+        "Localidad": "SAN CARLOS CENTRO SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -31.7167,
+        "Longitud": -61.0833
+    },
+    {
+        "Localidad": "SAN CLEMENTE DEL TUYU BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -36.3667,
+        "Longitud": -56.7167
+    },
+    {
+        "Localidad": "SAN CRISTOBAL SANTA FE",
+        "Cantidad": 2,
+        "Latitud": -30.3167,
+        "Longitud": -61.2333
+    },
+    {
+        "Localidad": "SAN FERNANDO BUENOS AIRES",
+        "Cantidad": 67,
+        "Latitud": -34.45,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "SAN FRANCISCO CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -31.4333,
+        "Longitud": -62.0833
+    },
+    {
+        "Localidad": "SAN FRANCISCO SOLANO BUENOS AIRES",
+        "Cantidad": 171,
+        "Latitud": -34.7833,
+        "Longitud": -58.3333
+    },
+    {
+        "Localidad": "SAN ISIDRO BUENOS AIRES",
+        "Cantidad": 5,
+        "Latitud": -34.4833,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "SAN JAVIER SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -30.5833,
+        "Longitud": -60.5833
+    },
+    {
+        "Localidad": "SAN JORGE SANTA FE",
+        "Cantidad": 7,
+        "Latitud": -31.9,
+        "Longitud": -61.9667
+    },
+    {
+        "Localidad": "SAN JOSE DEL RINCON SANTA FE",
+        "Cantidad": 1,
+        "Latitud": -31.5333,
+        "Longitud": -60.6333
+    },
+    {
+        "Localidad": "SAN JOSE ENTRE RIOS",
+        "Cantidad": 1,
+        "Latitud": -32.2167,
+        "Longitud": -58.2167
+    },
+    {
+        "Localidad": "SAN JUAN SAN JUAN",
+        "Cantidad": 4,
+        "Latitud": -31.5333,
+        "Longitud": -68.5167
+    },
+    {
+        "Localidad": "SAN JUSTO BUENOS AIRES",
+        "Cantidad": 81,
+        "Latitud": -34.6833,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "SAN JUSTO SANTA FE",
+        "Cantidad": 13,
+        "Latitud": -30.7833,
+        "Longitud": -60.5833
+    },
+    {
+        "Localidad": "SAN LORENZO SANTA FE",
+        "Cantidad": 14,
+        "Latitud": -32.75,
+        "Longitud": -60.7333
+    },
+    {
+        "Localidad": "SAN LUIS SAN LUIS",
+        "Cantidad": 270,
+        "Latitud": -33.3,
+        "Longitud": -66.35
+    },
+    {
+        "Localidad": "SAN MARTIN BUENOS AIRES",
+        "Cantidad": 70,
+        "Latitud": -34.5667,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "SAN MARTIN DE LOS ANDES NEUQUEN",
+        "Cantidad": 1,
+        "Latitud": -40.15,
+        "Longitud": -71.35
+    },
+    {
+        "Localidad": "SAN MARTIN MENDOZA",
+        "Cantidad": 24,
+        "Latitud": -33.0833,
+        "Longitud": -68.4667
+    },
+    {
+        "Localidad": "SAN MIGUEL BUENOS AIRES",
+        "Cantidad": 137,
+        "Latitud": -34.5333,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "SAN MIGUEL DE TUCUMAN TUCUMAN",
+        "Cantidad": 892,
+        "Latitud": -26.8167,
+        "Longitud": -65.2167
+    },
+    {
+        "Localidad": "SAN NICOLAS BUENOS AIRES",
+        "Cantidad": 104,
+        "Latitud": -33.3333,
+        "Longitud": -60.2167
+    },
+    {
+        "Localidad": "SAN PABLO TUCUMAN",
+        "Cantidad": 39,
+        "Latitud": -26.8333,
+        "Longitud": -65.3
+    },
+    {
+        "Localidad": "SAN PEDRO BUENOS AIRES",
+        "Cantidad": 13,
+        "Latitud": -33.6833,
+        "Longitud": -59.6667
+    },
+    {
+        "Localidad": "SAN PEDRO JUJUY",
+        "Cantidad": 27,
+        "Latitud": -24.2333,
+        "Longitud": -64.8667
+    },
+    {
+        "Localidad": "SAN RAFAEL MENDOZA",
+        "Cantidad": 14,
+        "Latitud": -34.6167,
+        "Longitud": -68.3333
+    },
+    {
+        "Localidad": "SAN ROQUE CORRIENTES",
+        "Cantidad": 11,
+        "Latitud": -27.4833,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "SAN VICENTE BUENOS AIRES",
+        "Cantidad": 108,
+        "Latitud": -35.0167,
+        "Longitud": -58.4167
+    },
+    {
+        "Localidad": "SANTA CLARA DEL MAR BUENOS AIRES",
+        "Cantidad": 12,
+        "Latitud": -37.8333,
+        "Longitud": -57.5167
+    },
+    {
+        "Localidad": "SANTA ELENA ENTRE RIOS",
+        "Cantidad": 2,
+        "Latitud": -30.95,
+        "Longitud": -59.7833
+    },
+    {
+        "Localidad": "SANTA FE SANTA FE",
+        "Cantidad": 46,
+        "Latitud": -31.6333,
+        "Longitud": -60.7
+    },
+    {
+        "Localidad": "SANTA LUCIA SAN JUAN",
+        "Cantidad": 43,
+        "Latitud": -31.5333,
+        "Longitud": -68.4667
+    },
+    {
+        "Localidad": "SANTA ROSA CORDOBA",
+        "Cantidad": 1,
+        "Latitud": -32.05,
+        "Longitud": -64.3833
+    },
+    {
+        "Localidad": "SANTA ROSA LA PAMPA",
+        "Cantidad": 10,
+        "Latitud": -36.6167,
+        "Longitud": -64.2833
+    },
+    {
+        "Localidad": "SANTA TERESITA BUENOS AIRES",
+        "Cantidad": 14,
+        "Latitud": -36.55,
+        "Longitud": -56.6833
+    },
+    {
+        "Localidad": "SANTO TOME SANTA FE",
+        "Cantidad": 15,
+        "Latitud": -31.65,
+        "Longitud": -60.75
+    },
+    {
+        "Localidad": "SANTOS LUGARES BUENOS AIRES",
+        "Cantidad": 9,
+        "Latitud": -34.6,
+        "Longitud": -58.55
+    },
+    {
+        "Localidad": "SARANDI BUENOS AIRES",
+        "Cantidad": 17,
+        "Latitud": -34.6833,
+        "Longitud": -58.3333
+    },
+    {
+        "Localidad": "SARMIENTO CHUBUT",
+        "Cantidad": 13,
+        "Latitud": -45.6,
+        "Longitud": -69.0833
+    },
+    {
+        "Localidad": "SAUCE VIEJO SANTA FE",
+        "Cantidad": 3,
+        "Latitud": -31.7167,
+        "Longitud": -60.8167
+    }
+]
