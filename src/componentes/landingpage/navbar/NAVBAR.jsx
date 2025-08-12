@@ -54,6 +54,7 @@ const Navbar = () => {
                 ¿Quiénes somos?
               </button>
             </li>
+            <br></br>
             <li className="nav-item">
               <Link
                 className={`btn me-2 ${isActive("/servicios") ? "btn-outline-light active" : "btn-light"}`}
@@ -62,6 +63,7 @@ const Navbar = () => {
                 Servicios
               </Link>
             </li>
+            <br></br>
             <li className="nav-item">
               <Link
                 className={`btn me-2 ${isActive("/contactanos") ? "btn-outline-light active" : "btn-light"}`}
@@ -70,6 +72,7 @@ const Navbar = () => {
                 Contáctanos
               </Link>
             </li>
+            <br></br>
           </ul>
         </div>
       </div>
