@@ -53,11 +53,15 @@ const QuienesSomos = () => {
           <h2 className="fw-bold">Sobre nosotros</h2>
           <h5 className="text-muted">cooperativa ya</h5>
           <p className="mt-3 text-secondary">
-            Excepteur efficient emerging, minim veniam anim aute carefully curated Ginza conversation exquisite perfect nostrud nisi
-            intricate Content. Qui international first-class nulla ut. Punctual adipiscing, essential lovely queen tempor eiusmod
-            irure. Exclusive izakaya charming Scandinavian impeccable aute quality of life soft power pariatur Melbourne occaecat
-            discerning. Qui wardrobe aliquip, et Porter destination Toto remarkable officia Helsinki exceptuer Basset hound. Zürich
-            sleepy perfect consectetur.
+            Mucho más que un préstamo…
+            COOP YA la Cooperativa número 1 del País.
+            En muchas provincias conocida con su nombre de fantasía CREDIYA.
+            Encontra los servicios que necesitas y si no contanos cuales son, estamos para servirte.
+            Es nuestro compromiso satisfacer todas tus necesidades.
+          </p>
+          <p className="mt-3 text-secondary">      
+            Felicitamos a TODOS los Asociados que se suman a esta hermosa familia, que participan de manera activa en las Asambleas y aportan nuevas iniciativas para seguir creciendo. Gracias por elegirnos.
+            Todos somos responsables de mantener viva la entidad, tu voto suma a las decisiones. Todos somos iguales, cada uno de los socios sin importar condición alguna tiene derecho a un voto.
           </p>
         </div>
       </div>

@@ -284,7 +284,7 @@ const UbicacionHeatmap = () => {
   }, []);
 
   return (
-    <section className="py-5 bg-light text-center">
+    <section className="py-5 bg-light text-center" >
       <div className="container">
         <h2 className="mb-3 fw-bold">Nuestros socios</h2>
         <p className="text-muted" style={{ marginTop: -6 }}>
@@ -399,17 +399,7 @@ function makeLegendSize(radiusPxOf) {
     const samples = [5, 20, 80].map((c) => ({ c, r: Math.round(radiusPxOf(c)) }));
     const maxR = Math.max(...samples.map((s) => s.r));
     div.innerHTML = `
-      <div class="legend-title">Cantidad (tamaño)</div>
-      <div class="legend-bubbles" style="height:${maxR * 2 + 10}px">
-        ${samples
-          .map(
-            (s) => `
-            <div class="bubble" style="width:${s.r * 2}px;height:${s.r * 2}px;bottom:5px;">
-              <span>${s.c}</span>
-            </div>`
-          )
-          .join("")}
-      </div>`;
+      `;
     return div;
   };
   return ctrl;

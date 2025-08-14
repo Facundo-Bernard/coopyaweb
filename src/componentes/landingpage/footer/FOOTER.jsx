@@ -1,6 +1,7 @@
 import { useState } from "react";
 import logo from './../../../assets/logo.png'
 import { Link } from "react-router-dom";
+import { color } from "framer-motion";
 const Footer = () => {
   const [openSection, setOpenSection] = useState(null);
 
@@ -51,6 +52,7 @@ const Footer = () => {
                 <li>Contrato de Adhesion servicios - Ley 24.240 de Defensa del consumidor</li>
                 <li>defensa del Consumidor Ciudad Autonoma de Buenos Aires</li>
                 <li>Legislacion Derecho del Consumidor</li>
+                <li><a href="https://www.argentina.gob.ar/aaip" style={{color:'white'}}>accede a toda la información necesaria para ejercer tus derechos, ley 25.326</a></li>
               </ul>
             )}
           </div>
@@ -69,7 +71,7 @@ const Footer = () => {
               </ul>
             )}
           </div>
-        </div>
+        </div> 
 
         {/* Contacto directo */}
         <div className="row mt-5 text-center text-md-start">
@@ -88,7 +90,12 @@ const Footer = () => {
                 <i className="bi bi-geo-alt me-2"></i>
                 Bartolome mitre 797, Buenos Aires
               </div>
+              <div>
+                <i className="bi bi-lock me-2"></i>
+                Matrícula INAES 18.213 CUIT: 30-69075438-6 
+              </div>
             </div>
+            <br></br>
           </div>
         </div>
       </div>
