@@ -407,7 +407,7 @@ export default function ContactoForm() {
                                     </div>
                                     <div>
                                         <i className="bi bi-geo-alt me-2" aria-hidden="true" />
-                                        Bartolomé Mitre 797, Buenos Aires
+                                        Bartolomé Mitre 797 piso 3, Buenos Aires - codigo postal 1036
                                     </div>
                                 </div>
                             </div>

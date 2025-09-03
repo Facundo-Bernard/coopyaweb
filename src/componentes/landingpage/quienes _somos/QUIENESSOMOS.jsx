@@ -54,9 +54,9 @@ const QuienesSomos = () => {
           <h5 className="text-muted">cooperativa ya</h5>
           <p className="mt-3 text-secondary">
             Mucho más que un préstamo…
-            COOP YA la Cooperativa número 1 del País.
+            COOP YA es la Cooperativa número 1 del País.
             En muchas provincias conocida con su nombre de fantasía CREDIYA.
-            Encontra los servicios que necesitas y si no contanos cuales son, estamos para servirte.
+            Encontra los servicios que necesitas y si no, contanos cuales son, estamos para servirte.
             Es nuestro compromiso satisfacer todas tus necesidades.
           </p>
           <p className="mt-3 text-secondary">      

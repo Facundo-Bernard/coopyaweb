@@ -88,7 +88,7 @@ const Footer = () => {
               </div>
               <div>
                 <i className="bi bi-geo-alt me-2"></i>
-                Bartolome mitre 797, Buenos Aires
+                Bartolome mitre 797 piso 3, Buenos Aires - codigo postal 1036
               </div>
               <div>
                 <i className="bi bi-lock me-2"></i>
