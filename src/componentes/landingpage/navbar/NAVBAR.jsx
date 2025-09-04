@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import logo from './../../../assets/logo.png'
+import logo from './../../../assets/ticwhite.png'
 const Navbar = () => {
   const navigate = useNavigate();
   const location = useLocation(); // Detecta la ruta actual
@@ -10,27 +10,45 @@ const Navbar = () => {
 
   return (
     <nav className="navbar navbar-expand-lg navbar-dark" style={{
-    backgroundColor: '#ff3b3b',
-    paddingTop: '0',
-    paddingBottom: '0'
-  }}
->
-      <div className="container-fluid">
-        <Link className="navbar-brand" to="/">
-  <img
-    src={logo}
-    alt="Logo"
-    className="d-inline-block align-text-top"
-    style={{
-      objectFit: "cover",       // Ensures the image fills the container
-      objectPosition: "center", // Vertically centers the cropped area
-      height: "80px",           // Adjust height as needed
-      width: "150px",            // Keeps aspect ratio
-      overflow: "hidden",       // Ensures cropped content is hidden
-      borderRadius: "4px"       // Optional: adds subtle rounding
+      backgroundColor: '#ff3b3b',
+      paddingTop: '0',
+      paddingBottom: '0'
     }}
-  />
-</Link>
+    >
+      <div className="container-fluid">
+        <div style={{
+  display: "flex",
+  alignItems: "center",
+  gap: "24px", // Espacio entre logo y texto
+  flexWrap: "wrap" // Permite que se acomode en pantallas más chicas
+}}>
+  <Link className="navbar-brand" to="/">
+    <img
+      src={logo}
+      alt="Logo"
+      className="d-inline-block align-text-top"
+      style={{
+        objectFit: "cover",
+        objectPosition: "center",
+        height: "80px",
+        overflow: "hidden",
+        borderRadius: "4px"
+      }}
+    />
+  </Link>
+  <div style={{
+    color: "white",
+    maxWidth: "500px", // Más ancho para que no se vea apretado
+    lineHeight: "1.4"
+  }}>
+    <p className="fw-semibold mb-1">
+      Cooperativa de crédito, vivienda y consumo
+    </p>
+    <p className="fw-semibold mb-0">
+      Servicios sociales y administrativos YA Ltda
+    </p>
+  </div>
+</div>
 
         <button
           className="navbar-toggler"
