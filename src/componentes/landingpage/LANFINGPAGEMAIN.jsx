@@ -33,8 +33,8 @@ function LANFINGPAGEMAIN() {
       <motion.div variants={fadeIn} initial="hidden" whileInView="visible" viewport={{ once: true }}>
         <Ubicacion />
       </motion.div>
-
       
+
     </>
   );
 }
