@@ -157,8 +157,8 @@ export default function BAJAS() {
           viewport={{ once: true }}
           className="mb-4 text-center"
         >
-          <h1 className="fw-bold mb-1">Baja de producto o servicio</h1>
-          <p className="text-muted mb-0">Estamos para ayudarte</p>
+          <h1 className="fw-bold mb-1">Baja de Socio</h1>
+          <p className="text-muted mb-0"> envianos un mensaje para solicitar la baja de socio, estamos para ayudarte</p>
         </motion.div>
 
         {/* Single centered column */}

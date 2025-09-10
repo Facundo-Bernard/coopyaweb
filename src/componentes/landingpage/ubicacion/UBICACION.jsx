@@ -297,7 +297,7 @@ const UbicacionHeatmap = () => {
           style={{
             width: "100%",
             maxWidth: 1100,
-            height: 620,
+            height: 550,
             margin: "0 auto",
             borderRadius: 12,
             boxShadow: "0 10px 30px rgba(0,0,0,0.12)",

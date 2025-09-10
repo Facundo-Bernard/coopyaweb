@@ -57,20 +57,7 @@ const Footer = () => {
             )}
           </div>
 
-          {/* Resources dropdown */}
-          <div className="col">
-            <button
-              className="btn btn-sm btn-outline-light w-100 mb-2"
-              onClick={() => toggleSection("resources")}
-            >
-              Resources
-            </button>
-            {openSection === "resources" && (
-              <ul className="list-unstyled small">
-                En virtud a lo dispuesto en el Art 34 de la ley 24.240, el aceptante de la asistencia crediticia tiene el derecho de arrepentirse de la misma, y revocar su aceptación dentro del plazo de los diez (10) días corridos, contados a partir de la fecha en que se desembolse la asistencia crediticia o que se celebre el contrato, lo último que ocurra, sin responsabilidad alguna para su persona.
-              </ul>
-            )}
-          </div>
+
         </div> 
 
         {/* Contacto directo */}
