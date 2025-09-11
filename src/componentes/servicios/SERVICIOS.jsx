@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { Link } from "react-router-dom";
 
 const SERVICIOS = () => {
   const [activeIndex, setActiveIndex] = useState(null);
@@ -243,9 +244,13 @@ const SERVICIOS = () => {
                         )}
 
                         {/* Botón de contactar (devuelto abajo en el panel) */}
-                        <a href={servicio.contacto} className="btn btn-danger mt-3">
-                          Contactar
-                        </a>
+
+              <Link
+                className="btn btn-danger mt-3"
+                to="/contactanos"
+              >
+                Contáctanos
+              </Link>
                       </motion.div>
                     )}
                   </AnimatePresence>
