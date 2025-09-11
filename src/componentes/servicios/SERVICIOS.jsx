@@ -144,7 +144,7 @@ const SERVICIOS = () => {
           <div className="text-center mb-5">
             <h1 className="fw-bold display-4">Nuestros Servicios</h1>
             <p className="lead text-secondary mx-auto" style={{ maxWidth: "700px" }}>
-              Para ser socio solo debés abonar una acción social (ej. $10) y una cuota social (ej. $3500).
+              Para ser socio solo debés abonar una acción social de $10 y una cuota social de $3500.
               Con eso vas a poder acceder a los servicios y planes detallados abajo.
             </p>
             <p>Para descargar solicitud de ingreso haz clic acá</p>
