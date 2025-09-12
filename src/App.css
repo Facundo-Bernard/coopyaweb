@@ -1,0 +1,7 @@
+/* Fuerza al bot y su ventana a estar por encima de todo */
+df-messenger,
+df-messenger iframe,
+df-messenger .df-messenger-wrapper {
+  z-index: 999999 !important;
+  position: relative !important;
+}

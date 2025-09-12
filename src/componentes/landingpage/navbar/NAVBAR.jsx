@@ -1,55 +1,49 @@
-import React from 'react';
-import { Link, useNavigate, useLocation } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import logo from './../../../assets/ticwhite.png'
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import logo from './../../../assets/ticwhite.png';
+
 const Navbar = () => {
   const navigate = useNavigate();
-  const location = useLocation(); // Detecta la ruta actual
+  const location = useLocation();
 
   const isActive = (path) => location.pathname === path;
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark" style={{
-      backgroundColor: '#ff3b3b',
-      paddingTop: '0',
-      paddingBottom: '0'
-    }}
+    <nav
+      className="navbar navbar-expand-lg navbar-dark"
+      style={{
+        backgroundColor: '#ff3b3b',
+        padding: '0.5rem 1rem',
+      }}
     >
       <div className="container-fluid">
-        <div style={{
-  display: "flex",
-  alignItems: "center",
-  gap: "24px", // Espacio entre logo y texto
-  flexWrap: "wrap" // Permite que se acomode en pantallas más chicas
-}}>
-  <Link className="navbar-brand" to="/">
-    <img
-      src={logo}
-      alt="Logo"
-      className="d-inline-block align-text-top"
-      style={{
-        objectFit: "cover",
-        objectPosition: "center",
-        height: "80px",
-        overflow: "hidden",
-        borderRadius: "4px"
-      }}
-    />
-  </Link>
-  <div style={{
-    color: "white",
-    maxWidth: "500px", // Más ancho para que no se vea apretado
-    lineHeight: "1.4"
-  }}>
-    <p className="fw-semibold mb-1">
-      Cooperativa de crédito, vivienda y consumo
-    </p>
-    <p className="fw-semibold mb-0">
-      Servicios sociales y administrativos YA Ltda
-    </p>
-  </div>
-</div>
+        {/* Logo + texto */}
+        <div className="d-flex align-items-center flex-wrap flex-lg-nowrap">
+          <Link className="navbar-brand me-2" to="/">
+            <img
+              src={logo}
+              alt="Logo"
+              style={{
+                height: '60px',
+                width: 'auto',
+                borderRadius: '4px',
+              }}
+            />
+          </Link>
+          <div
+            className="text-white d-none d-sm-block"
+            style={{ lineHeight: '1.3', maxWidth: '400px' }}
+          >
+            <p className="fw-semibold mb-1 small">
+              Cooperativa de crédito, vivienda y consumo
+            </p>
+            <p className="fw-semibold mb-0 small">
+              Servicios sociales y administrativos YA Ltda
+            </p>
+          </div>
+        </div>
 
+        {/* Botón hamburguesa */}
         <button
           className="navbar-toggler"
           type="button"
@@ -62,35 +56,45 @@ const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav ms-auto align-items-center">
+        {/* Links */}
+        <div className="collapse navbar-collapse mt-3 mt-lg-0" id="navbarNav">
+<ul className="navbar-nav ms-auto d-flex flex-column flex-lg-row gap-2 gap-lg-3">
             <li className="nav-item">
               <button
-                className={`btn me-2 ${isActive("/quienes-somos") ? "btn-outline-light active" : "btn-light"}`}
-                onClick={() => navigate("/quienes-somos")}
+                className={`btn w-100 w-lg-auto ${
+                  isActive('/quienes-somos')
+                    ? 'btn-outline-light active'
+                    : 'btn-light'
+                }`}
+                onClick={() => navigate('/quienes-somos')}
               >
                 ¿Quiénes somos?
               </button>
             </li>
-            <br></br>
             <li className="nav-item">
               <Link
-                className={`btn me-2 ${isActive("/servicios") ? "btn-outline-light active" : "btn-light"}`}
+                className={`btn w-100 w-lg-auto ${
+                  isActive('/servicios')
+                    ? 'btn-outline-light active'
+                    : 'btn-light'
+                }`}
                 to="/servicios"
               >
                 Servicios
               </Link>
             </li>
-            <br></br>
             <li className="nav-item">
               <Link
-                className={`btn me-2 ${isActive("/contactanos") ? "btn-outline-light active" : "btn-light"}`}
+                className={`btn w-100 w-lg-auto ${
+                  isActive('/contactanos')
+                    ? 'btn-outline-light active'
+                    : 'btn-light'
+                }`}
                 to="/contactanos"
               >
                 Contáctanos
               </Link>
             </li>
-            <br></br>
           </ul>
         </div>
       </div>

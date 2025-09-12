@@ -1,10 +1,9 @@
+import { motion } from 'framer-motion';
 import { useEffect } from 'react';
 import './App.css';
 import Footer from './componentes/landingpage/footer/FOOTER';
-import LANFINGPAGEMAIN from './componentes/landingpage/LANFINGPAGEMAIN';
 import Navbar from './componentes/landingpage/navbar/NAVBAR';
 import RUTAS from './componentes/RUTAS';
-import { motion } from 'framer-motion';
 
 function App() {
   // Inyectar el bootstrap script de Dialogflow
