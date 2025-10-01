@@ -4,7 +4,7 @@ import EstadisticaItem from './ESTADISTICAITEM';
 const Estadisticas = () => {
   const data = [
     { cantidad: '30000', descripcion: 'Socios actuales' },
-    { cantidad: '20', descripcion: 'años en el mercado' },
+    { cantidad: '29', descripcion: 'años en el mercado' },
   ];
 
   return (

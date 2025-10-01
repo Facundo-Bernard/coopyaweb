@@ -22,10 +22,12 @@ const Footer = () => {
           <div className="col d-flex flex-column align-items-center align-items-md-start">
             <img src={logo} alt="Logo" style={{ width: '50%', marginBottom: '15px' }} />
             <div className="d-flex gap-3 justify-content-center justify-content-md-start">
-              <i className="bi bi-twitter-x fs-5"></i>
               <i className="bi bi-instagram fs-5"></i>
-              <i className="bi bi-youtube fs-5"></i>
               <i className="bi bi-linkedin fs-5"></i>
+              <a  href="https://wa.me/541157230550" target="_blank" rel="noopener noreferrer">
+    <i className="bi bi-whatsapp fs-5 text-white"></i>
+  </a>
+
             </div>
           </div>
 
@@ -51,23 +53,21 @@ const Footer = () => {
             </button>
             {openSection === "explore" && (
               <ul className="list-unstyled small">
-                <li><a href="https://www.asistodo.com.ar/aaip" style={{ color: 'white' }}>Asistodo, empresa de servicios</a></li>
+                <li><a href="https://asistodo.com.ar/" style={{ color: 'white' }}>Asistodo, empresa de servicios</a></li>
                 <li><a href="https://www.argentina.gob.ar/inaes/centro-denuncias" style={{ color: 'white' }}>Centro de denuncias INAES</a></li>
                 <li><a href="https://www.argentina.gob.ar/economia/industria-y-comercio/defensadelconsumidor" style={{ color: 'white' }}>Defensa al consumidor</a></li>
 
-                <li><MODALPOLITICA show={show} onClose={() => setShow(false)} >HOLA</MODALPOLITICA>
+                <li><MODALPOLITICA show={show} onClose={() => setShow(false)} ></MODALPOLITICA>
                 </li>
                 <li
                   style={{ cursor: "pointer" }}
                   onClick={() => setShow(true)}
                 >
-                Política de Privacidad
+                  Política de Privacidad
                 </li>
-                <li>info us financiero</li>
-                <li>Medios de pago</li>
-                <li>Contrato de Adhesion servicios - Ley 24.240 de Defensa del consumidor</li>
-                <li>defensa del Consumidor Ciudad Autonoma de Buenos Aires</li>
-                <li>Legislacion Derecho del Consumidor</li>
+                <li><a href="https://www.argentina.gob.ar/economia/industria-y-comercio/defensadelconsumidor/leyes-proteccion-consumidor" style={{ color: 'white' }}>normativa proteccion al consumidor</a></li>
+
+
                 <li><a href="https://www.argentina.gob.ar/aaip" style={{ color: 'white' }}>accede a toda la información necesaria para ejercer tus derechos, ley 25.326</a></li>
               </ul>
             )}

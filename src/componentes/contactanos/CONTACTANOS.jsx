@@ -157,6 +157,7 @@ export default function ContactoForm() {
                 >
                     <h1 className="fw-bold mb-1">Contactanos</h1>
                     <p className="text-muted mb-0">Estamos para ayudarte. Respondemos a la brevedad de 9hs a 17hs.</p>
+                    <p className="text-muted mb-0">Respondemos consultas tanto de clientes como todo que quiera trabajar con nosotros</p>
                 </motion.div>
 
                 <div className="row g-4 align-items-start">

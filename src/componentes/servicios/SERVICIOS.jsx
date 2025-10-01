@@ -57,7 +57,7 @@ const SERVICIOS = () => {
             "Subsidio por fallecimiento: hasta $50.000.",
             "Solicitud y gestión vía ASISTODO (líneas indicadas en la documentación).",
           ],
-          file: "Plan50.doc",
+          file: "S50.doc",
         },
         {
           id: "plan-75",
@@ -69,7 +69,7 @@ const SERVICIOS = () => {
             "Telemedic: video consultas (hasta 12 eventos/año).",
             "Subsidio por fallecimiento: hasta $75.000.",
           ],
-          file: "Plan75.doc",
+          file: "S75.doc",
         },
         {
           id: "plan-100",
@@ -83,7 +83,7 @@ const SERVICIOS = () => {
             "Asistencia en vía pública y asistencias administrativas.",
             "Subsidio por fallecimiento: hasta $100.000.",
           ],
-          file: "Plan100.doc",
+          file: "S100.doc",
         },
         {
           id: "plan-120",
@@ -96,7 +96,7 @@ const SERVICIOS = () => {
             "Subsidio por fallecimiento: hasta $120.000.",
             "Telemedic y traslados médicos incluidos.",
           ],
-          file: "Plan120.doc",
+          file: "S120.doc",
         },
         {
           id: "plan-150",
@@ -108,7 +108,7 @@ const SERVICIOS = () => {
             "Telepsicología: 50% de descuento en sesiones (12 eventos/año).",
             "Subsidio por fallecimiento: hasta $150.000.",
           ],
-          file: "Plan150.doc",
+          file: "S150.doc",
         },
       ],
       contacto: "/contacto/servicios-sociales",
@@ -167,6 +167,7 @@ const SERVICIOS = () => {
                   <h5 className="mt-3 text-danger">{servicio.title}</h5>
                   <p className="text-secondary">{servicio.desc}</p>
 
+
                   <div className="d-flex justify-content-center gap-2">
                     <button
                       className="btn btn-outline-danger mt-2"
@@ -188,9 +189,13 @@ const SERVICIOS = () => {
                               <h6 className="text-danger">{sec.titulo}</h6>
                               <ul className="text-secondary">
                                 {sec.items.map((item, j) => (
-                                  <li key={j}>{item}</li>
+                                  <li key={j}>{item}
+
+                                  </li>
+
                                 ))}
                               </ul>
+
                             </div>
                           ))}
 
@@ -233,6 +238,14 @@ const SERVICIOS = () => {
                                               <li key={bi}>{b}</li>
                                             ))}
                                           </ul>
+                                          <a
+                                      href={`${window.location.origin}/${plan.file}`}
+                                      download={`${plan.file}`}
+                                      className="btn btn-success"
+                                    >
+                                      Descargar Solicitud
+                                    </a>
+                                          
                                         </motion.div>
                                       )}
                                     </AnimatePresence>
@@ -245,12 +258,12 @@ const SERVICIOS = () => {
 
                         {/* Botón de contactar (devuelto abajo en el panel) */}
 
-              <Link
-                className="btn btn-danger mt-3"
-                to="/contactanos"
-              >
-                Contáctanos
-              </Link>
+                        <Link
+                          className="btn btn-danger mt-3"
+                          to="/contactanos"
+                        >
+                          Contáctanos
+                        </Link>
                       </motion.div>
                     )}
                   </AnimatePresence>
