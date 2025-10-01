@@ -2,8 +2,13 @@ import { useState } from "react";
 import logo from './../../../assets/logo.png'
 import { Link } from "react-router-dom";
 import { color } from "framer-motion";
+import React from "react";
+import MODALPOLITICA from "../modalpolitica/MODALPOLITICA";
+
+
 const Footer = () => {
   const [openSection, setOpenSection] = useState(null);
+  const [show, setShow] = React.useState(false); //esto es para el modal 
 
   const toggleSection = (section) => {
     setOpenSection(openSection === section ? null : section);
@@ -26,14 +31,14 @@ const Footer = () => {
 
           {/* Use cases dropdown */}
           <div className="col">
-           
-              <Link onClick={() => toggleSection("use")} className="btn btn-sm btn-outline-light w-100 mb-2" to="/bajas">
+
+            <Link onClick={() => toggleSection("use")} className="btn btn-sm btn-outline-light w-100 mb-2" to="/bajas">
               Boton de arrepentimiento
-              </Link>
-              <ul className="list-unstyled small">
-                                En virtud a lo dispuesto en el Art 34 de la ley 24.240, el aceptante de la asistencia crediticia tiene el derecho de arrepentirse de la misma, y revocar su aceptación dentro del plazo de los diez (10) días corridos, contados a partir de la fecha en que se desembolse la asistencia crediticia o que se celebre el contrato, lo último que ocurra, sin responsabilidad alguna para su persona.
-              </ul>
-          
+            </Link>
+            <ul className="list-unstyled small">
+              En virtud a lo dispuesto en el Art 34 de la ley 24.240, el aceptante de la asistencia crediticia tiene el derecho de arrepentirse de la misma, y revocar su aceptación dentro del plazo de los diez (10) días corridos, contados a partir de la fecha en que se desembolse la asistencia crediticia o que se celebre el contrato, lo último que ocurra, sin responsabilidad alguna para su persona.
+            </ul>
+
           </div>
 
           {/* Explore dropdown */}
@@ -46,19 +51,30 @@ const Footer = () => {
             </button>
             {openSection === "explore" && (
               <ul className="list-unstyled small">
-                <li>politica de privacidad</li>
+                <li><a href="https://www.asistodo.com.ar/aaip" style={{ color: 'white' }}>Asistodo, empresa de servicios</a></li>
+                <li><a href="https://www.argentina.gob.ar/inaes/centro-denuncias" style={{ color: 'white' }}>Centro de denuncias INAES</a></li>
+                <li><a href="https://www.argentina.gob.ar/economia/industria-y-comercio/defensadelconsumidor" style={{ color: 'white' }}>Defensa al consumidor</a></li>
+
+                <li><MODALPOLITICA show={show} onClose={() => setShow(false)} >HOLA</MODALPOLITICA>
+                </li>
+                <li
+                  style={{ cursor: "pointer" }}
+                  onClick={() => setShow(true)}
+                >
+                Política de Privacidad
+                </li>
                 <li>info us financiero</li>
                 <li>Medios de pago</li>
                 <li>Contrato de Adhesion servicios - Ley 24.240 de Defensa del consumidor</li>
                 <li>defensa del Consumidor Ciudad Autonoma de Buenos Aires</li>
                 <li>Legislacion Derecho del Consumidor</li>
-                <li><a href="https://www.argentina.gob.ar/aaip" style={{color:'white'}}>accede a toda la información necesaria para ejercer tus derechos, ley 25.326</a></li>
+                <li><a href="https://www.argentina.gob.ar/aaip" style={{ color: 'white' }}>accede a toda la información necesaria para ejercer tus derechos, ley 25.326</a></li>
               </ul>
             )}
           </div>
 
 
-        </div> 
+        </div>
 
         {/* Contacto directo */}
         <div className="row mt-5 text-center text-md-start">
@@ -79,7 +95,7 @@ const Footer = () => {
               </div>
               <div>
                 <i className="bi bi-lock me-2"></i>
-                Matrícula INAES 18.213 CUIT: 30-69075438-6 
+                Matrícula INAES 18.213 CUIT: 30-69075438-6
               </div>
             </div>
             <br></br>

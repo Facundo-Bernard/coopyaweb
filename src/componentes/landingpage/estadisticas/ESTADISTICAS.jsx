@@ -5,7 +5,6 @@ const Estadisticas = () => {
   const data = [
     { cantidad: '30000', descripcion: 'Socios actuales' },
     { cantidad: '20', descripcion: 'años en el mercado' },
-    { cantidad: '100', descripcion: 'Body text' }
   ];
 
   return (
